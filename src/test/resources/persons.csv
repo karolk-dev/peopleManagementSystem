@@ -1,0 +1,1001 @@
+first_name,last_name,pesel,height,weight,email,person_type,employment_start_date,position,salary,university_name,study_year,field_of_study,scholarship_amount,pension_amount,years_worked
+Henry,Halvorson,38226376179,179,85.0,henry.halvorson@example.com,RETIREE,,,,,,,,2964.47,48
+Efren,Glover,86670435782,155,99.9,efren.glover@example.com,EMPLOYEE,2006-11-17,Assistant,94155.77,,,,,,
+Terry,Renner,23306541310,172,74.5,terry.renner@example.com,EMPLOYEE,1995-09-19,Executive,85384.46,,,,,,
+Roseanne,Rempel,86502123777,179,59.9,roseanne.rempel@example.com,RETIREE,,,,,,,,1280.10,49
+Duane,Effertz,12537444314,162,67.0,duane.effertz@example.com,RETIREE,,,,,,,,2525.61,14
+Donovan,Littel,63087666913,162,79.2,donovan.littel@example.com,RETIREE,,,,,,,,1587.54,35
+Belkis,O'Hara,07658504713,150,56.1,belkis.o'hara@example.com,EMPLOYEE,2019-12-25,Technician,93350.22,,,,,,
+Almeta,McKenzie,30476780334,178,90.8,almeta.mckenzie@example.com,STUDENT,,,,Southern Ziemann College,3,Mechanical Engineering,1819.00,,
+Jacinto,Schuppe,61222938196,158,64.7,jacinto.schuppe@example.com,RETIREE,,,,,,,,2410.73,22
+Linwood,Heller,71466536640,161,50.2,linwood.heller@example.com,RETIREE,,,,,,,,2948.96,18
+Hedy,Jacobi,20453353043,173,80.0,hedy.jacobi@example.com,STUDENT,,,,South Cormier,4,Mechanical Engineering,2265.00,,
+Luana,Ziemann,66234886067,178,58.7,luana.ziemann@example.com,EMPLOYEE,2006-03-18,Designer,67855.97,,,,,,
+Gale,Lynch,42625320860,164,99.1,gale.lynch@example.com,EMPLOYEE,2003-08-08,Agent,60530.50,,,,,,
+Carrol,Nicolas,73252689229,157,60.8,carrol.nicolas@example.com,STUDENT,,,,Northern Wisozk,2,Biology,733.00,,
+Joannie,Grady,55680513216,175,50.9,joannie.grady@example.com,STUDENT,,,,Western Watsica Academy,5,Computer Science,1706.00,,
+Theola,Rau,74260177057,158,60.7,theola.rau@example.com,EMPLOYEE,2009-12-18,Agent,95217.17,,,,,,
+Wilmer,Herzog,10502898378,170,59.3,wilmer.herzog@example.com,EMPLOYEE,2014-03-06,Facilitator,72113.94,,,,,,
+Heidy,Miller,56059494778,185,70.5,heidy.miller@example.com,STUDENT,,,,Southern Schaden,2,Mechanical Engineering,3646.00,,
+Stephen,Cole,36461320650,170,98.8,stephen.cole@example.com,STUDENT,,,,Eastern Johns,4,Mechanical Engineering,871.00,,
+Fidel,Blick,03151247391,180,78.8,fidel.blick@example.com,EMPLOYEE,2015-08-22,Analyst,82892.66,,,,,,
+Nelly,Corwin,78437925601,150,82.3,nelly.corwin@example.com,STUDENT,,,,West Ohio Institute,1,Computer Science,2596.00,,
+Monica,Pollich,28156612550,188,58.9,monica.pollich@example.com,RETIREE,,,,,,,,1318.00,50
+Milan,Armstrong,47280448742,168,59.5,milan.armstrong@example.com,EMPLOYEE,2020-01-07,Coordinator,55923.12,,,,,,
+Rosalinda,Robel,30368057825,151,72.5,rosalinda.robel@example.com,STUDENT,,,,Northern Oklahoma Academy,3,Biology,230.00,,
+Tim,Kerluke,43536026827,173,85.9,tim.kerluke@example.com,STUDENT,,,,South Illinois Academy,4,Mechanical Engineering,3866.00,,
+Monique,Gutkowski,64425047037,168,88.8,monique.gutkowski@example.com,EMPLOYEE,2018-04-27,Architect,90175.98,,,,,,
+Merle,Wolf,24613213390,154,68.2,merle.wolf@example.com,EMPLOYEE,2010-05-28,Designer,70774.84,,,,,,
+Jamie,McGlynn,13635057645,150,73.1,jamie.mcglynn@example.com,RETIREE,,,,,,,,2993.75,14
+Tyron,Botsford,25626502345,176,84.7,tyron.botsford@example.com,STUDENT,,,,Southern Mississippi University,1,Computer Science,1904.00,,
+Pedro,Murray,34024903012,187,71.7,pedro.murray@example.com,RETIREE,,,,,,,,2825.20,29
+Lenora,Grant,35342565336,179,92.3,lenora.grant@example.com,RETIREE,,,,,,,,2256.09,22
+Dick,Lind,41387578274,178,62.7,dick.lind@example.com,EMPLOYEE,2009-02-24,Specialist,96730.59,,,,,,
+Mervin,Gottlieb,34036222411,188,97.6,mervin.gottlieb@example.com,STUDENT,,,,West Morissette,4,Law,1346.00,,
+Sterling,Greenfelder,90184420145,180,89.2,sterling.greenfelder@example.com,RETIREE,,,,,,,,2569.50,46
+Garry,Runolfsson,83446125461,183,88.8,garry.runolfsson@example.com,RETIREE,,,,,,,,1312.71,44
+Abel,Hermann,57740654944,182,79.4,abel.hermann@example.com,STUDENT,,,,Western Stiedemann Academy,5,Biology,1354.00,,
+Tanesha,Kerluke,51061724302,160,92.7,tanesha.kerluke@example.com,STUDENT,,,,Maggio College,2,Biology,1230.00,,
+Jina,Beatty,76283901703,165,94.0,jina.beatty@example.com,RETIREE,,,,,,,,2690.38,36
+Tyler,Gleason,71772384561,152,75.2,tyler.gleason@example.com,STUDENT,,,,Eastern Connecticut Institute,2,Biology,3961.00,,
+Calvin,Runte,70371804920,168,77.4,calvin.runte@example.com,RETIREE,,,,,,,,2861.96,27
+Wade,Schiller,09461931674,166,70.2,wade.schiller@example.com,EMPLOYEE,2011-09-21,Director,83591.67,,,,,,
+Aaron,Towne,38695266551,170,64.2,aaron.towne@example.com,STUDENT,,,,Southern Reichert,3,Computer Science,3166.00,,
+Daniel,Torphy,75722476053,158,50.1,daniel.torphy@example.com,EMPLOYEE,2020-12-07,Assistant,63916.67,,,,,,
+Tomiko,Hackett,75453726164,180,53.5,tomiko.hackett@example.com,RETIREE,,,,,,,,1096.27,50
+Celia,Stiedemann,34656348427,165,61.3,celia.stiedemann@example.com,STUDENT,,,,Southern Rhode Island College,3,Law,2519.00,,
+Alden,Kshlerin,24485325855,187,99.4,alden.kshlerin@example.com,EMPLOYEE,2013-05-03,Orchestrator,66853.41,,,,,,
+Demetrice,Torp,95546904655,179,78.7,demetrice.torp@example.com,EMPLOYEE,2012-08-25,Supervisor,66376.57,,,,,,
+Guillermo,Orn,68710142537,158,86.3,guillermo.orn@example.com,STUDENT,,,,North Hudson,3,Computer Science,2741.00,,
+Melva,Crooks,73521503180,161,74.5,melva.crooks@example.com,STUDENT,,,,East Nolan,2,Law,2220.00,,
+Bambi,Jaskolski,66210611136,167,63.8,bambi.jaskolski@example.com,STUDENT,,,,The Spencer Academy,4,Biology,3681.00,,
+Karoline,Quitzon,31473300692,163,85.5,karoline.quitzon@example.com,RETIREE,,,,,,,,2958.67,47
+Natisha,Gorczany,21174378875,160,76.4,natisha.gorczany@example.com,STUDENT,,,,Western Willms University,5,Mechanical Engineering,3478.00,,
+Madaline,Medhurst,75654113660,159,76.5,madaline.medhurst@example.com,EMPLOYEE,2005-02-26,Strategist,52714.21,,,,,,
+Albert,McKenzie,57302388148,186,86.2,albert.mckenzie@example.com,EMPLOYEE,2011-02-11,Director,79145.18,,,,,,
+Quinton,Kshlerin,88943118319,167,69.1,quinton.kshlerin@example.com,RETIREE,,,,,,,,1873.39,40
+Brett,Conn,72888976467,150,67.3,brett.conn@example.com,EMPLOYEE,1998-02-14,Consultant,51853.51,,,,,,
+Ramon,Schuster,55198774556,179,69.8,ramon.schuster@example.com,STUDENT,,,,The Quigley College,4,Biology,2990.00,,
+Marcela,Ernser,94650256982,173,88.2,marcela.ernser@example.com,STUDENT,,,,North Michigan College,1,Computer Science,1110.00,,
+Chung,O'Keefe,57225543111,162,55.8,chung.o'keefe@example.com,RETIREE,,,,,,,,1727.44,24
+Shari,Lueilwitz,09798843340,183,87.3,shari.lueilwitz@example.com,STUDENT,,,,North New York College,4,Computer Science,207.00,,
+Dorinda,Pagac,88433212480,185,63.3,dorinda.pagac@example.com,RETIREE,,,,,,,,2629.09,41
+Shera,Smith,85909217074,180,62.9,shera.smith@example.com,STUDENT,,,,Eastern Missouri Institute,5,Biology,3155.00,,
+Greg,Hilll,76473078511,186,54.7,greg.hilll@example.com,EMPLOYEE,2016-06-05,Technician,73810.14,,,,,,
+Becky,Orn,91138918815,178,73.5,becky.orn@example.com,STUDENT,,,,East O'Reilly Academy,3,Biology,707.00,,
+Lanita,Grant,70059317631,172,84.0,lanita.grant@example.com,EMPLOYEE,2020-08-05,Coordinator,59624.67,,,,,,
+Lilla,Lang,41808797690,167,90.8,lilla.lang@example.com,RETIREE,,,,,,,,2494.80,48
+Ruben,Runolfsdottir,52176436348,155,67.2,ruben.runolfsdottir@example.com,EMPLOYEE,1999-11-18,Director,62148.26,,,,,,
+Candie,Swaniawski,61883130227,181,76.2,candie.swaniawski@example.com,STUDENT,,,,East Vermont Institute,1,Mechanical Engineering,729.00,,
+Randell,Corwin,14169405742,188,88.8,randell.corwin@example.com,EMPLOYEE,2005-10-19,Liaison,70028.59,,,,,,
+Monte,Schmidt,02842120753,169,61.7,monte.schmidt@example.com,STUDENT,,,,Kub College,5,Biology,3755.00,,
+Caron,Schinner,87032620153,188,60.1,caron.schinner@example.com,EMPLOYEE,2012-08-16,Developer,80911.44,,,,,,
+Juan,Stanton,16450805297,179,71.6,juan.stanton@example.com,RETIREE,,,,,,,,1302.55,11
+Bethanie,O'Conner,41839041378,151,72.3,bethanie.o'conner@example.com,RETIREE,,,,,,,,1356.28,25
+Bobby,O'Keefe,83136643063,180,84.2,bobby.o'keefe@example.com,EMPLOYEE,2011-08-27,Coordinator,51268.61,,,,,,
+Edelmira,Wuckert,27084360255,184,69.5,edelmira.wuckert@example.com,EMPLOYEE,2020-02-27,Facilitator,75199.98,,,,,,
+Julian,Jones,72513387747,181,91.8,julian.jones@example.com,EMPLOYEE,2013-07-22,Representative,59951.11,,,,,,
+Yvette,Skiles,79770058861,153,84.2,yvette.skiles@example.com,STUDENT,,,,Northern Montana University,3,Mechanical Engineering,99.00,,
+Mara,Johnson,18835811365,170,62.6,mara.johnson@example.com,STUDENT,,,,Western Wisconsin Academy,3,Computer Science,404.00,,
+Tisha,Watsica,69406358308,181,65.9,tisha.watsica@example.com,EMPLOYEE,1995-12-16,Architect,54842.80,,,,,,
+Franklyn,Mosciski,19803488855,188,70.8,franklyn.mosciski@example.com,EMPLOYEE,2011-04-23,Administrator,81706.34,,,,,,
+Michal,Daniel,43746151073,177,85.6,michal.daniel@example.com,RETIREE,,,,,,,,1028.95,39
+Robert,Cruickshank,83661550727,179,52.4,robert.cruickshank@example.com,STUDENT,,,,East Batz,4,Law,2388.00,,
+Stephanie,Blanda,58896311716,163,52.0,stephanie.blanda@example.com,RETIREE,,,,,,,,2531.63,17
+Mirtha,Swaniawski,62585244043,171,59.8,mirtha.swaniawski@example.com,STUDENT,,,,Western Pennsylvania Institute,3,Mechanical Engineering,3210.00,,
+Enriqueta,Hoppe,88867170861,153,66.0,enriqueta.hoppe@example.com,EMPLOYEE,2014-01-12,Officer,66649.76,,,,,,
+Shaunna,Schmeler,84364767087,173,59.6,shaunna.schmeler@example.com,EMPLOYEE,2006-10-11,Assistant,82527.38,,,,,,
+Jewell,Rogahn,20354312216,159,80.2,jewell.rogahn@example.com,STUDENT,,,,Eastern Alaska Institute,5,Mechanical Engineering,1761.00,,
+Ethan,Kassulke,02326072417,168,99.5,ethan.kassulke@example.com,EMPLOYEE,1998-09-04,Administrator,91494.62,,,,,,
+Grant,Quitzon,39851382527,156,82.6,grant.quitzon@example.com,RETIREE,,,,,,,,2953.04,45
+Randy,Schaefer,38120112325,165,84.1,randy.schaefer@example.com,EMPLOYEE,2004-10-11,Agent,52625.40,,,,,,
+Lisbeth,Morar,03690335761,172,59.3,lisbeth.morar@example.com,RETIREE,,,,,,,,2598.48,39
+Jesse,Pacocha,37841877036,168,91.8,jesse.pacocha@example.com,EMPLOYEE,1999-12-16,Strategist,78443.58,,,,,,
+Rafael,Schneider,93750010628,178,97.0,rafael.schneider@example.com,RETIREE,,,,,,,,2329.68,31
+Kirby,McDermott,07163964363,180,92.0,kirby.mcdermott@example.com,RETIREE,,,,,,,,2120.88,14
+Zena,Wehner,33168437037,189,80.5,zena.wehner@example.com,EMPLOYEE,1998-03-09,Technician,76314.16,,,,,,
+Twanda,Schulist,15817802862,180,76.2,twanda.schulist@example.com,STUDENT,,,,Western Kub College,5,Biology,1839.00,,
+Danae,Reilly,41454513175,173,68.4,danae.reilly@example.com,RETIREE,,,,,,,,1643.17,50
+Carolee,Sporer,63275106922,163,56.0,carolee.sporer@example.com,STUDENT,,,,Nicolas College,5,Law,3461.00,,
+Bryant,Murray,35857984338,156,99.5,bryant.murray@example.com,STUDENT,,,,Lesch University,4,Mechanical Engineering,3663.00,,
+Hosea,Pollich,36869584060,156,53.6,hosea.pollich@example.com,STUDENT,,,,South Fritsch University,1,Computer Science,1972.00,,
+Harvey,Spinka,11463242543,168,51.3,harvey.spinka@example.com,RETIREE,,,,,,,,2790.45,47
+Shera,Schamberger,77176426221,187,88.9,shera.schamberger@example.com,EMPLOYEE,1998-01-26,Facilitator,71930.24,,,,,,
+Geoffrey,Heaney,11987978264,157,62.3,geoffrey.heaney@example.com,EMPLOYEE,1999-05-17,Developer,86645.67,,,,,,
+Howard,Okuneva,15826707149,164,66.8,howard.okuneva@example.com,EMPLOYEE,2000-01-03,Analyst,99514.17,,,,,,
+Buster,Quigley,12807119133,158,99.2,buster.quigley@example.com,STUDENT,,,,Southern Michigan College,1,Law,3476.00,,
+Shannon,Pouros,59538652108,182,73.7,shannon.pouros@example.com,STUDENT,,,,Eastern Kuvalis,5,Mechanical Engineering,3975.00,,
+Dewayne,Johns,37708336837,175,74.8,dewayne.johns@example.com,STUDENT,,,,East Flatley University,4,Mechanical Engineering,1009.00,,
+Maryalice,Bernier,03713931235,187,72.1,maryalice.bernier@example.com,RETIREE,,,,,,,,1424.90,22
+Chandra,Paucek,62951001406,169,69.9,chandra.paucek@example.com,STUDENT,,,,The Arkansas University,4,Computer Science,2741.00,,
+Mikel,Dach,01801563662,184,91.5,mikel.dach@example.com,EMPLOYEE,2013-04-09,Planner,82053.14,,,,,,
+Asley,Swaniawski,41554342462,177,73.7,asley.swaniawski@example.com,STUDENT,,,,West Missouri College,4,Mechanical Engineering,602.00,,
+Monserrate,Metz,34257156510,178,88.9,monserrate.metz@example.com,RETIREE,,,,,,,,1124.40,21
+Sarita,Morar,81524187386,173,67.5,sarita.morar@example.com,RETIREE,,,,,,,,1477.51,24
+Coy,Roob,76526121886,183,63.4,coy.roob@example.com,EMPLOYEE,2023-05-25,Facilitator,58683.12,,,,,,
+Alonso,Watsica,06877627744,167,74.6,alonso.watsica@example.com,RETIREE,,,,,,,,2099.77,45
+Trent,O'Reilly,08850453542,175,65.0,trent.o'reilly@example.com,EMPLOYEE,2012-06-06,Facilitator,67726.07,,,,,,
+Hazel,Zemlak,42673372520,182,81.2,hazel.zemlak@example.com,EMPLOYEE,1999-04-22,Director,99786.93,,,,,,
+Irwin,Kuhlman,15106837546,165,94.7,irwin.kuhlman@example.com,STUDENT,,,,Northern Batz,3,Law,3066.00,,
+Maria,Roberts,49662750304,152,74.9,maria.roberts@example.com,EMPLOYEE,2019-12-12,Director,90068.93,,,,,,
+Keven,Gibson,67185330384,166,58.0,keven.gibson@example.com,RETIREE,,,,,,,,1264.96,16
+Emilio,Howe,57107367427,175,77.5,emilio.howe@example.com,STUDENT,,,,Eastern Paucek,1,Law,40.00,,
+Eldon,Dare,67632456113,184,50.7,eldon.dare@example.com,RETIREE,,,,,,,,1087.42,15
+Dollie,Flatley,24242635796,183,88.1,dollie.flatley@example.com,RETIREE,,,,,,,,1138.70,13
+Oswaldo,Jast,15249571444,150,97.5,oswaldo.jast@example.com,STUDENT,,,,North Aufderhar,4,Law,1444.00,,
+Cherly,Schumm,21418710011,186,96.3,cherly.schumm@example.com,STUDENT,,,,Bins College,2,Biology,2582.00,,
+Gaynell,Quigley,37618351237,150,66.5,gaynell.quigley@example.com,STUDENT,,,,Southern Ohio Institute,1,Computer Science,845.00,,
+Abel,Reichert,27391135451,181,55.9,abel.reichert@example.com,EMPLOYEE,1997-12-28,Planner,85818.84,,,,,,
+Peggie,Hintz,05049715916,184,57.5,peggie.hintz@example.com,EMPLOYEE,1997-03-21,Strategist,75485.37,,,,,,
+Ryan,Grant,43020101085,176,94.1,ryan.grant@example.com,EMPLOYEE,2013-10-28,Manager,90568.85,,,,,,
+Michael,Upton,25368649692,155,86.3,michael.upton@example.com,STUDENT,,,,Eastern Arizona University,5,Computer Science,3571.00,,
+Bryce,Weber,40877880844,151,53.3,bryce.weber@example.com,STUDENT,,,,Southern Steuber,2,Law,945.00,,
+Ted,Abernathy,95075576042,177,51.8,ted.abernathy@example.com,STUDENT,,,,Lindgren College,5,Law,2297.00,,
+Mandy,Wuckert,27141734411,175,95.7,mandy.wuckert@example.com,EMPLOYEE,2012-04-07,Specialist,50729.13,,,,,,
+Matthew,Hamill,08945761568,184,58.9,matthew.hamill@example.com,STUDENT,,,,South Satterfield,1,Mechanical Engineering,2745.00,,
+Bao,Williamson,70231016556,154,96.0,bao.williamson@example.com,STUDENT,,,,West New Mexico Institute,4,Computer Science,501.00,,
+Milton,Murray,32088072130,162,66.4,milton.murray@example.com,EMPLOYEE,2015-04-15,Administrator,72474.18,,,,,,
+Eddy,Morissette,41122761867,157,84.5,eddy.morissette@example.com,RETIREE,,,,,,,,1559.81,35
+Hyman,Gerhold,37064245842,157,93.0,hyman.gerhold@example.com,RETIREE,,,,,,,,1212.68,12
+Jamar,Rutherford,01550952536,151,82.6,jamar.rutherford@example.com,RETIREE,,,,,,,,1202.86,34
+Santo,Blanda,40556635753,166,90.1,santo.blanda@example.com,RETIREE,,,,,,,,1444.20,38
+Ferdinand,O'Kon,80276282155,152,91.2,ferdinand.o'kon@example.com,RETIREE,,,,,,,,2030.63,48
+Julio,Skiles,37742026467,174,65.1,julio.skiles@example.com,STUDENT,,,,Eastern Terry,5,Biology,1059.00,,
+Aileen,Ullrich,74670420176,153,76.5,aileen.ullrich@example.com,STUDENT,,,,Von Institute,3,Computer Science,712.00,,
+Lincoln,Crooks,19510028340,186,79.2,lincoln.crooks@example.com,STUDENT,,,,West Lesch College,1,Law,2144.00,,
+Cyril,Gislason,88553065666,161,65.1,cyril.gislason@example.com,EMPLOYEE,2004-01-02,Analyst,94234.42,,,,,,
+Merrill,Ritchie,08758463043,162,84.5,merrill.ritchie@example.com,STUDENT,,,,Stamm College,2,Mechanical Engineering,165.00,,
+Ty,Roob,49808926232,183,63.7,ty.roob@example.com,STUDENT,,,,Wisozk Academy,4,Computer Science,2208.00,,
+Pablo,Anderson,72406115644,176,83.7,pablo.anderson@example.com,RETIREE,,,,,,,,2289.45,30
+Jack,Carter,38830543801,157,94.4,jack.carter@example.com,EMPLOYEE,1998-10-07,Consultant,84016.92,,,,,,
+Floyd,Gleichner,24097075174,151,73.1,floyd.gleichner@example.com,STUDENT,,,,Eastern Wisoky,3,Law,2922.00,,
+Anibal,Halvorson,94033362341,162,52.4,anibal.halvorson@example.com,RETIREE,,,,,,,,1981.92,44
+Hayden,Kovacek,05705663567,153,51.8,hayden.kovacek@example.com,EMPLOYEE,2008-03-10,Planner,72540.03,,,,,,
+Karolyn,Hirthe,76968091650,162,79.7,karolyn.hirthe@example.com,RETIREE,,,,,,,,2514.37,22
+Norris,O'Conner,54280465067,186,81.4,norris.o'conner@example.com,EMPLOYEE,2007-12-15,Executive,83714.04,,,,,,
+Lorinda,Thiel,88526383173,156,76.6,lorinda.thiel@example.com,RETIREE,,,,,,,,2782.90,47
+Horace,Feil,28560931334,179,98.7,horace.feil@example.com,STUDENT,,,,Hagenes University,2,Mechanical Engineering,3934.00,,
+Dayle,Bogan,96230042614,181,76.3,dayle.bogan@example.com,RETIREE,,,,,,,,2936.68,34
+Darron,Keeling,17367500417,170,53.6,darron.keeling@example.com,RETIREE,,,,,,,,2925.96,16
+Armanda,Schoen,43740527810,172,54.4,armanda.schoen@example.com,EMPLOYEE,2020-01-03,Director,59996.05,,,,,,
+Bill,Murray,64631531896,188,96.8,bill.murray@example.com,EMPLOYEE,2017-01-12,Specialist,94891.19,,,,,,
+Otha,Buckridge,67472910221,187,85.6,otha.buckridge@example.com,RETIREE,,,,,,,,1924.87,14
+Maryln,Gusikowski,53351015798,177,82.5,maryln.gusikowski@example.com,RETIREE,,,,,,,,2537.00,44
+Genny,Thiel,58285424284,162,80.7,genny.thiel@example.com,RETIREE,,,,,,,,1248.40,35
+Dalton,Torp,55581627377,168,62.5,dalton.torp@example.com,RETIREE,,,,,,,,1018.96,45
+Dolly,Yundt,60743638504,154,74.4,dolly.yundt@example.com,EMPLOYEE,2012-05-26,Director,54111.70,,,,,,
+Rayford,Huel,40696327484,150,65.6,rayford.huel@example.com,STUDENT,,,,West Metz Academy,1,Law,2810.00,,
+Rupert,Mante,04176032517,180,71.1,rupert.mante@example.com,STUDENT,,,,Southern Leffler Institute,2,Law,901.00,,
+Efrain,Conn,89335760121,172,60.7,efrain.conn@example.com,RETIREE,,,,,,,,2694.29,22
+Brooke,Robel,38447303365,155,93.1,brooke.robel@example.com,RETIREE,,,,,,,,1678.70,38
+Annie,Fadel,50696360532,162,96.2,annie.fadel@example.com,RETIREE,,,,,,,,1207.27,23
+Lashunda,Blick,88876591003,186,73.6,lashunda.blick@example.com,RETIREE,,,,,,,,2592.27,40
+Paul,O'Hara,48257720651,176,60.7,paul.o'hara@example.com,RETIREE,,,,,,,,2425.59,43
+Morris,Kulas,36110512062,158,82.7,morris.kulas@example.com,RETIREE,,,,,,,,1895.88,50
+Velma,Huels,29925676678,162,66.8,velma.huels@example.com,EMPLOYEE,2010-10-19,Associate,98751.23,,,,,,
+Blaine,Carter,62644311869,175,83.7,blaine.carter@example.com,EMPLOYEE,2022-07-01,Assistant,52005.92,,,,,,
+Lilly,Altenwerth,62003268161,160,73.0,lilly.altenwerth@example.com,STUDENT,,,,East Welch Institute,1,Computer Science,3226.00,,
+Samual,West,88861650862,156,53.8,samual.west@example.com,EMPLOYEE,2014-01-15,Administrator,70606.84,,,,,,
+Loree,Cremin,06134262502,166,52.9,loree.cremin@example.com,STUDENT,,,,Southern Glover University,1,Law,2643.00,,
+Christia,Mann,88343266372,152,82.8,christia.mann@example.com,RETIREE,,,,,,,,1792.09,27
+Rogelio,Lind,26904169833,160,89.8,rogelio.lind@example.com,RETIREE,,,,,,,,2934.03,14
+Pamelia,Bruen,80576178730,166,75.2,pamelia.bruen@example.com,STUDENT,,,,The Hagenes,5,Law,2599.00,,
+Darnell,Kub,01031447503,186,95.9,darnell.kub@example.com,STUDENT,,,,South California University,2,Biology,3519.00,,
+Hisako,Tremblay,82477565204,184,55.5,hisako.tremblay@example.com,STUDENT,,,,Eastern Haley University,1,Biology,3349.00,,
+Maria,Hills,31873600552,169,98.3,maria.hills@example.com,STUDENT,,,,Northern Hawaii University,4,Mechanical Engineering,900.00,,
+Sheron,Harvey,26699270239,154,85.1,sheron.harvey@example.com,RETIREE,,,,,,,,1821.58,11
+Garland,Franecki,67528161171,160,85.0,garland.franecki@example.com,RETIREE,,,,,,,,1776.83,40
+Trinidad,Kuphal,45225142430,179,93.2,trinidad.kuphal@example.com,STUDENT,,,,Mitchell College,2,Biology,1865.00,,
+Doreen,Kuhic,24973882026,153,66.9,doreen.kuhic@example.com,RETIREE,,,,,,,,1991.12,39
+Gala,Weber,26930320142,163,89.2,gala.weber@example.com,RETIREE,,,,,,,,2096.50,38
+Charlie,Feil,74347057607,185,53.9,charlie.feil@example.com,STUDENT,,,,Southern Hawaii College,1,Computer Science,1332.00,,
+Nicol,Ankunding,16784652721,187,63.3,nicol.ankunding@example.com,RETIREE,,,,,,,,1043.83,43
+Aurora,Bashirian,83414672192,164,56.5,aurora.bashirian@example.com,RETIREE,,,,,,,,2849.83,13
+Ione,McKenzie,05561271556,155,94.9,ione.mckenzie@example.com,STUDENT,,,,Eastern New York Institute,1,Law,305.00,,
+Brian,Wiza,10907130786,181,72.6,brian.wiza@example.com,STUDENT,,,,South Walker,2,Mechanical Engineering,3756.00,,
+Rogelio,D'Amore,60413354536,159,52.3,rogelio.d'amore@example.com,RETIREE,,,,,,,,1478.46,19
+Cathey,Krajcik,11403568267,187,88.6,cathey.krajcik@example.com,RETIREE,,,,,,,,2247.13,39
+Rae,Daniel,41377937683,176,63.3,rae.daniel@example.com,STUDENT,,,,Northern Rhode Island University,5,Law,257.00,,
+Dinorah,Harris,27491346565,171,60.4,dinorah.harris@example.com,EMPLOYEE,1997-06-19,Producer,82112.32,,,,,,
+Johana,Ritchie,60471863278,161,97.8,johana.ritchie@example.com,STUDENT,,,,Hand College,5,Law,2384.00,,
+Lazaro,Bode,38520687250,173,63.5,lazaro.bode@example.com,RETIREE,,,,,,,,1201.37,17
+Merry,Beier,91348752541,159,99.2,merry.beier@example.com,EMPLOYEE,2010-12-07,Consultant,67461.19,,,,,,
+Mistie,Thiel,42891984038,157,52.6,mistie.thiel@example.com,RETIREE,,,,,,,,2658.79,38
+Gabriel,Zemlak,74661989627,163,92.6,gabriel.zemlak@example.com,EMPLOYEE,2003-04-09,Facilitator,80407.39,,,,,,
+Sabrina,Altenwerth,74076040978,164,53.5,sabrina.altenwerth@example.com,STUDENT,,,,Green Academy,1,Mechanical Engineering,465.00,,
+Carry,Kreiger,68251084251,184,98.0,carry.kreiger@example.com,RETIREE,,,,,,,,2930.56,24
+Patrick,Ward,51262151165,152,72.7,patrick.ward@example.com,RETIREE,,,,,,,,1264.45,11
+Marcellus,Waelchi,36625329247,185,86.5,marcellus.waelchi@example.com,STUDENT,,,,Western South Dakota College,5,Biology,1776.00,,
+Georgiann,Feest,68572184518,162,76.1,georgiann.feest@example.com,RETIREE,,,,,,,,2502.94,18
+Venus,Schinner,62676808210,155,73.5,venus.schinner@example.com,EMPLOYEE,2004-10-04,Orchestrator,95612.17,,,,,,
+Marshall,Moen,24710866722,178,68.3,marshall.moen@example.com,RETIREE,,,,,,,,2052.13,33
+Carmine,Howe,43792538538,188,93.2,carmine.howe@example.com,RETIREE,,,,,,,,2306.38,36
+Bud,Thompson,26781364554,155,54.1,bud.thompson@example.com,STUDENT,,,,The Carroll Academy,2,Biology,976.00,,
+Weldon,Runolfsson,58608120476,161,85.3,weldon.runolfsson@example.com,EMPLOYEE,1997-08-04,Orchestrator,72817.81,,,,,,
+Daron,Goldner,19591223111,168,54.7,daron.goldner@example.com,RETIREE,,,,,,,,1620.08,38
+Stacie,Cummerata,85280339037,171,92.6,stacie.cummerata@example.com,RETIREE,,,,,,,,2188.73,25
+Valerie,Beier,65039145332,155,81.1,valerie.beier@example.com,STUDENT,,,,North Ortiz,5,Mechanical Engineering,2303.00,,
+Frederic,Green,24747810580,156,69.1,frederic.green@example.com,RETIREE,,,,,,,,1135.31,11
+Tiny,Braun,13261435106,167,79.3,tiny.braun@example.com,RETIREE,,,,,,,,1869.64,29
+Becky,Lesch,27844137260,175,58.8,becky.lesch@example.com,RETIREE,,,,,,,,1568.78,41
+Hank,Fisher,66563620783,151,78.6,hank.fisher@example.com,STUDENT,,,,North Gerlach,4,Law,2784.00,,
+Albert,Fisher,83240575715,156,95.8,albert.fisher@example.com,STUDENT,,,,East Kshlerin Institute,5,Biology,306.00,,
+Sherise,Smith,51968577428,175,75.8,sherise.smith@example.com,EMPLOYEE,2009-01-17,Technician,55476.86,,,,,,
+Everette,Raynor,42046894898,151,86.9,everette.raynor@example.com,RETIREE,,,,,,,,1759.83,18
+Olin,Howe,06141239180,183,70.1,olin.howe@example.com,EMPLOYEE,2006-07-22,Agent,77499.89,,,,,,
+Leroy,Ondricka,66949302610,172,80.7,leroy.ondricka@example.com,EMPLOYEE,2001-09-08,Consultant,95067.80,,,,,,
+Trish,Runolfsson,85612274533,181,64.9,trish.runolfsson@example.com,STUDENT,,,,Swift University,1,Computer Science,3262.00,,
+Lael,Steuber,41032540600,150,60.8,lael.steuber@example.com,EMPLOYEE,2012-10-13,Coordinator,83086.60,,,,,,
+Sherwood,Mayer,57740306042,158,60.1,sherwood.mayer@example.com,RETIREE,,,,,,,,1401.56,32
+Jacalyn,Gutkowski,68675778533,186,95.4,jacalyn.gutkowski@example.com,EMPLOYEE,2008-06-05,Consultant,54562.74,,,,,,
+Brock,Botsford,73681010297,151,52.5,brock.botsford@example.com,RETIREE,,,,,,,,1234.37,38
+Susan,Gulgowski,85495231933,171,75.0,susan.gulgowski@example.com,STUDENT,,,,Collins Institute,4,Biology,1844.00,,
+Nelida,Gutmann,41677473122,167,80.1,nelida.gutmann@example.com,STUDENT,,,,Southern North Carolina Institute,4,Law,1928.00,,
+Nikita,Nitzsche,77228641140,160,63.4,nikita.nitzsche@example.com,RETIREE,,,,,,,,1561.83,35
+Aleta,Ryan,43352011646,162,80.0,aleta.ryan@example.com,EMPLOYEE,2013-10-07,Liaison,95374.21,,,,,,
+Santos,Wolf,75823421323,171,83.2,santos.wolf@example.com,STUDENT,,,,Northern Doyle,5,Biology,1644.00,,
+Samatha,McLaughlin,03845444449,180,86.4,samatha.mclaughlin@example.com,STUDENT,,,,Hyatt Academy,2,Biology,1045.00,,
+Ashlyn,Zboncak,23223820493,186,56.9,ashlyn.zboncak@example.com,EMPLOYEE,1997-10-21,Analyst,50070.79,,,,,,
+Adrien,Ferry,54452803506,153,63.0,adrien.ferry@example.com,STUDENT,,,,East Feeney University,4,Biology,1110.00,,
+Willetta,Anderson,62262537467,178,75.1,willetta.anderson@example.com,EMPLOYEE,1995-04-21,Director,51523.33,,,,,,
+Harley,Herzog,27047526166,187,75.7,harley.herzog@example.com,STUDENT,,,,West Shanahan,1,Computer Science,602.00,,
+Tyler,Bergnaum,16488381444,159,71.8,tyler.bergnaum@example.com,EMPLOYEE,1999-10-25,Orchestrator,85063.94,,,,,,
+Celia,Kuhlman,82508992818,174,92.4,celia.kuhlman@example.com,STUDENT,,,,Cummerata Academy,2,Mechanical Engineering,1566.00,,
+Hilario,Jacobs,97606742513,150,86.9,hilario.jacobs@example.com,EMPLOYEE,2018-07-14,Director,86058.81,,,,,,
+Dale,Tremblay,01683930308,189,68.0,dale.tremblay@example.com,STUDENT,,,,Mills Institute,5,Biology,839.00,,
+Korey,Haag,84761755057,158,90.8,korey.haag@example.com,RETIREE,,,,,,,,2741.11,23
+Blake,Halvorson,81606958211,151,67.2,blake.halvorson@example.com,EMPLOYEE,1995-06-22,Designer,60277.95,,,,,,
+Joe,Grant,86219807154,174,74.2,joe.grant@example.com,EMPLOYEE,2018-03-26,Producer,84145.96,,,,,,
+Jake,Cronin,64670039087,164,51.5,jake.cronin@example.com,STUDENT,,,,The Pacocha College,4,Biology,3847.00,,
+Lakiesha,Botsford,01336471204,161,65.1,lakiesha.botsford@example.com,EMPLOYEE,2013-03-14,Administrator,76628.08,,,,,,
+Kassie,Schimmel,69179153328,158,69.7,kassie.schimmel@example.com,EMPLOYEE,2016-09-13,Producer,75874.72,,,,,,
+Lang,Labadie,35382287526,182,81.8,lang.labadie@example.com,STUDENT,,,,Northern Davis College,5,Computer Science,1249.00,,
+Tanja,Buckridge,46072755454,184,81.8,tanja.buckridge@example.com,RETIREE,,,,,,,,2329.95,21
+Roselle,Schoen,44897840188,182,61.2,roselle.schoen@example.com,STUDENT,,,,Western O'Kon College,1,Law,2607.00,,
+Lacresha,Medhurst,25458683138,165,87.9,lacresha.medhurst@example.com,RETIREE,,,,,,,,1180.01,45
+Roxie,Beatty,42225204043,167,53.8,roxie.beatty@example.com,STUDENT,,,,Western Daniel,5,Mechanical Engineering,2941.00,,
+Idalia,Ziemann,85094603637,159,99.3,idalia.ziemann@example.com,STUDENT,,,,South Hoppe Academy,4,Law,182.00,,
+Lupe,Corwin,46083167033,175,75.5,lupe.corwin@example.com,STUDENT,,,,Southern Hamill,4,Mechanical Engineering,1079.00,,
+Telma,Paucek,75881429289,151,99.2,telma.paucek@example.com,EMPLOYEE,1996-04-07,Orchestrator,52795.33,,,,,,
+Ira,Blick,71748437869,164,59.5,ira.blick@example.com,EMPLOYEE,2021-12-27,Assistant,57583.77,,,,,,
+Hugh,Christiansen,33486805670,155,95.2,hugh.christiansen@example.com,RETIREE,,,,,,,,2802.39,16
+Amos,Parker,25371452347,176,65.6,amos.parker@example.com,RETIREE,,,,,,,,2487.70,44
+Lavada,Emmerich,70812802254,164,66.4,lavada.emmerich@example.com,STUDENT,,,,Eastern Hartmann University,5,Mechanical Engineering,1418.00,,
+Dean,Rempel,20786011772,182,98.2,dean.rempel@example.com,RETIREE,,,,,,,,2886.92,43
+Chau,Borer,60605186472,189,70.4,chau.borer@example.com,RETIREE,,,,,,,,2774.92,12
+Cristobal,Wunsch,48777390866,162,86.3,cristobal.wunsch@example.com,STUDENT,,,,North Kub College,5,Computer Science,3944.00,,
+Brant,Hessel,65878505905,183,85.1,brant.hessel@example.com,RETIREE,,,,,,,,2077.53,45
+Dana,Swift,23713625032,183,70.7,dana.swift@example.com,EMPLOYEE,2024-10-08,Agent,50328.50,,,,,,
+Chelsie,Stamm,72233810239,151,81.9,chelsie.stamm@example.com,RETIREE,,,,,,,,1002.56,39
+Tyler,Ondricka,01736278447,153,80.4,tyler.ondricka@example.com,RETIREE,,,,,,,,1529.55,11
+Roberto,Romaguera,15905015331,169,69.2,roberto.romaguera@example.com,RETIREE,,,,,,,,2912.46,32
+Colton,Wehner,31082648684,183,69.4,colton.wehner@example.com,STUDENT,,,,North Abshire College,2,Mechanical Engineering,2768.00,,
+Pablo,Donnelly,27553978861,153,56.2,pablo.donnelly@example.com,RETIREE,,,,,,,,1331.21,42
+Lynwood,Hessel,73785363632,179,88.1,lynwood.hessel@example.com,STUDENT,,,,Northern Price Institute,5,Biology,3454.00,,
+Anh,Gutkowski,40425021899,166,67.7,anh.gutkowski@example.com,RETIREE,,,,,,,,2819.03,47
+Kyle,O'Reilly,57050543775,153,90.1,kyle.o'reilly@example.com,STUDENT,,,,Western Texas College,2,Computer Science,2769.00,,
+Ela,Homenick,28379253354,167,87.2,ela.homenick@example.com,EMPLOYEE,2022-03-04,Liaison,97037.04,,,,,,
+Mckinley,Emmerich,71451605245,176,87.8,mckinley.emmerich@example.com,EMPLOYEE,2011-12-15,Executive,82371.17,,,,,,
+Carman,Huel,29146554644,163,83.8,carman.huel@example.com,EMPLOYEE,2012-03-20,Orchestrator,95332.34,,,,,,
+Vina,Johns,43430383276,187,63.3,vina.johns@example.com,EMPLOYEE,2004-06-25,Architect,66344.02,,,,,,
+Margarito,Goyette,87863558386,180,98.0,margarito.goyette@example.com,EMPLOYEE,2021-08-22,Facilitator,79416.88,,,,,,
+Carlos,Ritchie,86118102132,157,50.6,carlos.ritchie@example.com,RETIREE,,,,,,,,1761.64,42
+Dione,Huels,72357463587,171,79.3,dione.huels@example.com,STUDENT,,,,South Rowe,1,Mechanical Engineering,58.00,,
+Sanora,Langworth,73822864194,163,68.8,sanora.langworth@example.com,STUDENT,,,,Southern Abshire,3,Mechanical Engineering,1520.00,,
+Reva,Cronin,66558421533,187,70.3,reva.cronin@example.com,STUDENT,,,,South Wintheiser,5,Law,830.00,,
+Vennie,Heathcote,23467947628,183,75.8,vennie.heathcote@example.com,STUDENT,,,,Southern Missouri Academy,4,Computer Science,961.00,,
+Lidia,Herman,77174234074,169,82.3,lidia.herman@example.com,STUDENT,,,,Klocko Academy,3,Computer Science,2316.00,,
+Jo,Jones,40738887683,151,72.8,jo.jones@example.com,EMPLOYEE,1995-09-25,Engineer,74299.44,,,,,,
+Jeanie,Morar,32640697396,177,79.6,jeanie.morar@example.com,RETIREE,,,,,,,,2835.71,28
+Harold,Ward,03138358067,184,62.5,harold.ward@example.com,STUDENT,,,,North Bernhard,2,Mechanical Engineering,3046.00,,
+Lawanda,Little,86157208374,151,85.0,lawanda.little@example.com,STUDENT,,,,North Bernier Academy,1,Biology,2814.00,,
+Richard,Becker,44532271770,156,56.0,richard.becker@example.com,STUDENT,,,,East Morar,3,Law,50.00,,
+Trinidad,Wilderman,47801756863,186,68.7,trinidad.wilderman@example.com,STUDENT,,,,Northern Reynolds University,1,Computer Science,3870.00,,
+Danyelle,Veum,45570988160,181,53.6,danyelle.veum@example.com,STUDENT,,,,Sporer University,3,Mechanical Engineering,2323.00,,
+Shaquita,Mitchell,15538038203,162,73.4,shaquita.mitchell@example.com,EMPLOYEE,1998-03-11,Facilitator,58474.99,,,,,,
+Jere,Nienow,08623970578,158,54.6,jere.nienow@example.com,RETIREE,,,,,,,,1109.72,44
+Laverne,Jenkins,35068001060,154,93.3,laverne.jenkins@example.com,STUDENT,,,,Hessel Institute,4,Mechanical Engineering,73.00,,
+Mohammed,Friesen,66146698577,154,89.9,mohammed.friesen@example.com,EMPLOYEE,1999-08-25,Specialist,55221.89,,,,,,
+Nolan,Daugherty,00235232738,166,91.2,nolan.daugherty@example.com,EMPLOYEE,2008-10-07,Strategist,58043.79,,,,,,
+Fred,Jerde,54032350066,183,92.1,fred.jerde@example.com,STUDENT,,,,Western Hauck Institute,4,Computer Science,1283.00,,
+Norris,Tillman,44981302512,186,73.0,norris.tillman@example.com,RETIREE,,,,,,,,1234.17,10
+Thaddeus,Dare,63312331031,168,87.4,thaddeus.dare@example.com,EMPLOYEE,2015-06-19,Planner,79282.61,,,,,,
+Armanda,Koss,28356621042,171,74.4,armanda.koss@example.com,EMPLOYEE,2005-04-22,Supervisor,51872.03,,,,,,
+Calvin,Stiedemann,27899682227,171,87.0,calvin.stiedemann@example.com,STUDENT,,,,Torphy Institute,2,Mechanical Engineering,2606.00,,
+Gus,Kling,17167527345,158,85.5,gus.kling@example.com,RETIREE,,,,,,,,2301.15,22
+Camellia,Hessel,45258837178,166,92.6,camellia.hessel@example.com,STUDENT,,,,Jerde College,4,Biology,3463.00,,
+Kathaleen,Kuhn,00277662581,169,90.4,kathaleen.kuhn@example.com,EMPLOYEE,2024-02-19,Agent,93890.35,,,,,,
+Bobby,Gottlieb,83540557327,185,73.5,bobby.gottlieb@example.com,RETIREE,,,,,,,,2207.43,26
+Jacquelynn,Hane,65910072398,159,73.7,jacquelynn.hane@example.com,EMPLOYEE,2020-02-27,Technician,82333.75,,,,,,
+Donetta,Lockman,46634646717,187,61.6,donetta.lockman@example.com,RETIREE,,,,,,,,2102.29,38
+Raymond,Kris,13710415642,176,70.8,raymond.kris@example.com,RETIREE,,,,,,,,1798.75,32
+Bert,Fisher,44588625459,184,89.8,bert.fisher@example.com,RETIREE,,,,,,,,1891.12,41
+Zenobia,Fahey,74580480152,176,55.0,zenobia.fahey@example.com,RETIREE,,,,,,,,1588.12,14
+Ching,Franecki,44222710018,164,61.6,ching.franecki@example.com,EMPLOYEE,2002-05-13,Technician,77286.24,,,,,,
+Erasmo,Kshlerin,76071345509,169,56.9,erasmo.kshlerin@example.com,RETIREE,,,,,,,,1795.00,35
+Toby,Dach,72350618262,176,73.0,toby.dach@example.com,RETIREE,,,,,,,,2367.63,13
+Viola,Cummings,56880136476,179,71.4,viola.cummings@example.com,EMPLOYEE,2013-09-02,Engineer,91770.00,,,,,,
+Dusty,Jacobi,45512590113,163,63.0,dusty.jacobi@example.com,STUDENT,,,,Champlin University,3,Computer Science,816.00,,
+Shawn,Vandervort,88910727914,156,56.6,shawn.vandervort@example.com,EMPLOYEE,2015-08-14,Manager,79084.27,,,,,,
+Maegan,Weber,13376888534,156,70.6,maegan.weber@example.com,EMPLOYEE,2007-07-08,Assistant,61651.23,,,,,,
+Tamera,Orn,86244944970,155,71.6,tamera.orn@example.com,RETIREE,,,,,,,,2383.75,15
+Humberto,Bergnaum,71162447105,161,98.4,humberto.bergnaum@example.com,EMPLOYEE,2014-05-24,Assistant,72950.55,,,,,,
+Genia,Effertz,48305043562,187,78.9,genia.effertz@example.com,EMPLOYEE,2001-10-13,Analyst,65289.55,,,,,,
+Tom,Sipes,41851066214,152,52.3,tom.sipes@example.com,STUDENT,,,,North Gerlach,5,Computer Science,186.00,,
+Emmaline,Goldner,75171192055,157,96.2,emmaline.goldner@example.com,STUDENT,,,,Western New Mexico University,1,Law,2231.00,,
+Yelena,Heidenreich,11128866713,185,89.4,yelena.heidenreich@example.com,RETIREE,,,,,,,,2995.72,35
+Maya,Nienow,81310400648,169,68.4,maya.nienow@example.com,EMPLOYEE,2002-01-22,Executive,68298.11,,,,,,
+Hai,Turner,75266486488,161,61.4,hai.turner@example.com,EMPLOYEE,2008-09-22,Consultant,94362.10,,,,,,
+Moira,Runte,31516808442,150,51.8,moira.runte@example.com,RETIREE,,,,,,,,1995.11,48
+Noah,Stehr,12645156938,160,51.1,noah.stehr@example.com,EMPLOYEE,1998-01-23,Producer,82256.85,,,,,,
+Lucille,Rutherford,84540352500,170,74.9,lucille.rutherford@example.com,RETIREE,,,,,,,,2059.52,49
+Jan,Swaniawski,30061509162,167,63.4,jan.swaniawski@example.com,STUDENT,,,,Western Labadie,3,Computer Science,2457.00,,
+Quinn,Lehner,27512673662,169,92.3,quinn.lehner@example.com,STUDENT,,,,Northern Wilkinson,3,Computer Science,2177.00,,
+Allen,Wehner,28725688622,155,69.8,allen.wehner@example.com,RETIREE,,,,,,,,1691.53,31
+Ivonne,MacGyver,63805216131,175,93.2,ivonne.macgyver@example.com,STUDENT,,,,Western Mississippi Institute,5,Law,2376.00,,
+Corine,Bosco,64817277644,150,58.3,corine.bosco@example.com,STUDENT,,,,North Conroy,1,Computer Science,411.00,,
+Miyoko,Feil,07624540158,172,99.8,miyoko.feil@example.com,EMPLOYEE,2018-10-21,Executive,55515.83,,,,,,
+Lucien,Donnelly,23729881917,150,56.4,lucien.donnelly@example.com,RETIREE,,,,,,,,1684.37,35
+Birdie,Strosin,77488751914,156,84.1,birdie.strosin@example.com,RETIREE,,,,,,,,1306.44,24
+Cyril,Lowe,72303801147,150,81.8,cyril.lowe@example.com,EMPLOYEE,2017-02-20,Designer,76846.17,,,,,,
+Jeramy,Halvorson,18554770761,181,92.6,jeramy.halvorson@example.com,EMPLOYEE,2020-07-19,Liaison,74491.06,,,,,,
+Jefferey,Cruickshank,88955655028,187,50.1,jefferey.cruickshank@example.com,STUDENT,,,,The Wisconsin College,5,Biology,3466.00,,
+Tonya,Brekke,93864982524,161,91.7,tonya.brekke@example.com,RETIREE,,,,,,,,1232.71,40
+Michele,Jacobson,58783543628,152,50.1,michele.jacobson@example.com,RETIREE,,,,,,,,1063.42,35
+Roland,Hickle,82347358078,166,52.3,roland.hickle@example.com,STUDENT,,,,West Leuschke,3,Mechanical Engineering,71.00,,
+Odell,Legros,78161133325,154,89.0,odell.legros@example.com,STUDENT,,,,Eastern Jaskolski,2,Mechanical Engineering,1711.00,,
+Tommy,Hartmann,59758557758,175,76.7,tommy.hartmann@example.com,STUDENT,,,,Western Cole Academy,5,Mechanical Engineering,1334.00,,
+Una,Nader,88295766000,159,85.2,una.nader@example.com,EMPLOYEE,1999-07-26,Officer,71062.02,,,,,,
+Cristobal,Vandervort,70169896635,180,80.1,cristobal.vandervort@example.com,RETIREE,,,,,,,,2013.34,39
+Gennie,Heller,72941115668,182,51.8,gennie.heller@example.com,RETIREE,,,,,,,,1347.30,22
+Cary,Mosciski,37485832159,152,67.0,cary.mosciski@example.com,RETIREE,,,,,,,,2129.24,16
+Vernita,Wyman,18236832144,177,57.9,vernita.wyman@example.com,EMPLOYEE,2000-12-17,Orchestrator,86116.33,,,,,,
+Willy,Bayer,48438194316,159,74.1,willy.bayer@example.com,EMPLOYEE,2001-04-19,Specialist,58654.30,,,,,,
+Fern,Will,17640302630,161,86.3,fern.will@example.com,STUDENT,,,,Schinner University,3,Biology,2346.00,,
+Tyson,Connelly,21616913736,177,84.7,tyson.connelly@example.com,EMPLOYEE,2008-05-05,Engineer,80905.33,,,,,,
+Rubin,Pfeffer,19056022404,171,88.0,rubin.pfeffer@example.com,STUDENT,,,,South Kansas Institute,1,Biology,1397.00,,
+Kandis,Baumbach,67346528832,165,71.8,kandis.baumbach@example.com,EMPLOYEE,2019-03-05,Strategist,59214.36,,,,,,
+Sharan,Cassin,56815596431,172,88.9,sharan.cassin@example.com,EMPLOYEE,2003-05-17,Liaison,59844.00,,,,,,
+Curt,Altenwerth,85173431123,156,99.7,curt.altenwerth@example.com,RETIREE,,,,,,,,1080.69,10
+Rafael,Wiza,83176436757,178,67.6,rafael.wiza@example.com,EMPLOYEE,2020-01-07,Specialist,96869.76,,,,,,
+Myles,Treutel,15695783808,181,78.4,myles.treutel@example.com,RETIREE,,,,,,,,2864.96,42
+Ming,Crona,37451783783,157,98.4,ming.crona@example.com,STUDENT,,,,East Texas College,2,Biology,3466.00,,
+Whitney,Pouros,66171084318,166,80.8,whitney.pouros@example.com,RETIREE,,,,,,,,1277.27,27
+Dionna,Erdman,78068560454,175,85.9,dionna.erdman@example.com,STUDENT,,,,Eastern McKenzie,2,Mechanical Engineering,1729.00,,
+Man,Donnelly,25687916014,150,58.9,man.donnelly@example.com,RETIREE,,,,,,,,2471.91,35
+Hildred,Gottlieb,44231072010,179,50.5,hildred.gottlieb@example.com,RETIREE,,,,,,,,2998.98,21
+Gilberte,Spinka,93559621034,164,96.9,gilberte.spinka@example.com,RETIREE,,,,,,,,1531.76,25
+Harlan,Okuneva,87834062032,157,97.5,harlan.okuneva@example.com,STUDENT,,,,Eastern Stamm Academy,1,Computer Science,2208.00,,
+Lashawn,Hettinger,13237345376,169,96.5,lashawn.hettinger@example.com,RETIREE,,,,,,,,1913.25,14
+Adelina,Corkery,40046087644,161,80.0,adelina.corkery@example.com,RETIREE,,,,,,,,2451.65,20
+Shery,Dicki,80724841755,172,93.9,shery.dicki@example.com,RETIREE,,,,,,,,2694.50,24
+Kevin,Armstrong,78128258490,150,83.2,kevin.armstrong@example.com,EMPLOYEE,2006-05-09,Assistant,75701.74,,,,,,
+Chang,Erdman,49282045962,189,77.8,chang.erdman@example.com,STUDENT,,,,North Bashirian Institute,1,Mechanical Engineering,3983.00,,
+Sheree,Sanford,82784981046,187,69.5,sheree.sanford@example.com,RETIREE,,,,,,,,2931.78,46
+Keturah,Johnson,23474033506,181,94.2,keturah.johnson@example.com,EMPLOYEE,2014-04-23,Supervisor,70185.48,,,,,,
+Kathyrn,Goldner,47255853088,156,77.3,kathyrn.goldner@example.com,RETIREE,,,,,,,,2878.61,23
+Russell,Kassulke,23242282490,183,54.4,russell.kassulke@example.com,EMPLOYEE,2007-03-04,Analyst,82169.30,,,,,,
+Jerri,Howe,57537753832,170,77.7,jerri.howe@example.com,STUDENT,,,,The Minnesota College,4,Law,2004.00,,
+Virgen,Tromp,88901751650,163,78.9,virgen.tromp@example.com,EMPLOYEE,1998-10-18,Consultant,68721.80,,,,,,
+Amira,Jacobs,67061429163,189,57.5,amira.jacobs@example.com,STUDENT,,,,North Maryland Academy,4,Computer Science,3845.00,,
+Carol,Murray,02136047431,158,74.1,carol.murray@example.com,EMPLOYEE,2001-12-18,Assistant,50255.17,,,,,,
+Renato,Morissette,49896625510,166,56.3,renato.morissette@example.com,RETIREE,,,,,,,,2017.99,14
+Li,Reinger,40737615836,183,84.9,li.reinger@example.com,EMPLOYEE,1996-11-06,Specialist,90785.91,,,,,,
+Billy,Mayert,02625518070,173,74.0,billy.mayert@example.com,RETIREE,,,,,,,,2144.39,41
+Fermin,Ritchie,80825061743,157,96.6,fermin.ritchie@example.com,RETIREE,,,,,,,,2557.20,26
+Jason,Grimes,25242431014,156,64.8,jason.grimes@example.com,EMPLOYEE,1995-04-06,Consultant,67362.73,,,,,,
+Eulah,Koss,03871066504,172,77.3,eulah.koss@example.com,EMPLOYEE,2015-07-28,Representative,92997.31,,,,,,
+Buck,Dietrich,96008311086,162,91.2,buck.dietrich@example.com,STUDENT,,,,Eastern Kshlerin,4,Computer Science,611.00,,
+Jefferey,Walter,15060603161,178,79.4,jefferey.walter@example.com,STUDENT,,,,West Herman,3,Mechanical Engineering,2955.00,,
+Shantay,Weber,73048583014,160,73.2,shantay.weber@example.com,STUDENT,,,,Eastern Maine University,3,Computer Science,848.00,,
+Ruth,Becker,54767104874,159,78.6,ruth.becker@example.com,STUDENT,,,,Nienow College,1,Computer Science,3335.00,,
+Jonah,Heaney,46774873448,152,52.6,jonah.heaney@example.com,EMPLOYEE,2011-08-21,Executive,79807.58,,,,,,
+Clement,Ullrich,44560435137,154,64.6,clement.ullrich@example.com,RETIREE,,,,,,,,2550.39,14
+Gabriella,Gibson,18279646299,178,81.2,gabriella.gibson@example.com,STUDENT,,,,The O'Conner College,4,Mechanical Engineering,1604.00,,
+Kermit,Kuvalis,26353138141,177,58.2,kermit.kuvalis@example.com,RETIREE,,,,,,,,2147.10,31
+Jean,Keeling,92841457567,178,56.4,jean.keeling@example.com,EMPLOYEE,2019-09-16,Representative,78917.32,,,,,,
+Noel,Gutmann,24324465287,181,69.5,noel.gutmann@example.com,RETIREE,,,,,,,,1064.40,32
+Letty,Padberg,05793773635,169,78.3,letty.padberg@example.com,RETIREE,,,,,,,,1891.46,39
+Zachariah,Schoen,02804790377,168,69.0,zachariah.schoen@example.com,STUDENT,,,,East South Carolina Institute,4,Mechanical Engineering,1972.00,,
+Elmer,Rau,63251328243,160,74.8,elmer.rau@example.com,STUDENT,,,,West Minnesota Institute,4,Biology,2891.00,,
+Demetrice,Kuhn,47517380342,182,69.5,demetrice.kuhn@example.com,STUDENT,,,,Southern Reynolds College,1,Computer Science,1571.00,,
+Laurice,Moore,33726689486,153,82.5,laurice.moore@example.com,EMPLOYEE,2015-01-16,Developer,93744.49,,,,,,
+Ina,Jones,20805050143,180,92.0,ina.jones@example.com,STUDENT,,,,Southern Towne,2,Mechanical Engineering,3473.00,,
+Sherrill,Hickle,14021663301,188,71.3,sherrill.hickle@example.com,STUDENT,,,,The Hermann,2,Biology,2353.00,,
+Somer,Kshlerin,70160868908,169,50.7,somer.kshlerin@example.com,STUDENT,,,,Erdman University,5,Mechanical Engineering,1736.00,,
+Ronna,Stoltenberg,54749388154,174,92.6,ronna.stoltenberg@example.com,STUDENT,,,,Johns Institute,1,Computer Science,1795.00,,
+Jovan,Gaylord,26532897635,189,70.5,jovan.gaylord@example.com,STUDENT,,,,Western Frami,2,Computer Science,3196.00,,
+Markus,Kerluke,45956000914,169,84.2,markus.kerluke@example.com,EMPLOYEE,2009-09-11,Analyst,88095.91,,,,,,
+Malik,Murazik,45083233744,176,94.9,malik.murazik@example.com,STUDENT,,,,Eastern Connecticut Institute,3,Mechanical Engineering,2031.00,,
+Lonnie,Rodriguez,60422466913,159,75.8,lonnie.rodriguez@example.com,STUDENT,,,,Northern Mann,3,Law,3266.00,,
+Mikel,Mann,40251246061,164,87.4,mikel.mann@example.com,EMPLOYEE,2010-04-03,Executive,72709.86,,,,,,
+Danille,Barrows,65366113487,188,65.2,danille.barrows@example.com,RETIREE,,,,,,,,2785.09,43
+Zachery,Berge,46146102938,189,53.5,zachery.berge@example.com,EMPLOYEE,2022-02-05,Orchestrator,90791.51,,,,,,
+Erwin,Parisian,74177640812,160,60.2,erwin.parisian@example.com,STUDENT,,,,North Schroeder,5,Law,1228.00,,
+Luciano,O'Conner,82237077865,178,64.0,luciano.o'conner@example.com,EMPLOYEE,2021-04-03,Designer,60044.94,,,,,,
+Jeramy,Carter,44153182115,177,78.0,jeramy.carter@example.com,STUDENT,,,,East Wunsch,2,Law,1779.00,,
+Xuan,O'Keefe,59813105124,186,84.3,xuan.o'keefe@example.com,STUDENT,,,,Nader University,4,Law,3849.00,,
+Bryant,Maggio,16367414248,151,75.9,bryant.maggio@example.com,STUDENT,,,,Hansen University,2,Biology,1105.00,,
+Mitchell,Turner,28967585323,156,85.0,mitchell.turner@example.com,EMPLOYEE,2010-07-23,Coordinator,56397.84,,,,,,
+Robby,Hamill,01991684212,175,93.4,robby.hamill@example.com,RETIREE,,,,,,,,1427.75,23
+Ashlea,Kuhn,14236444673,185,76.1,ashlea.kuhn@example.com,STUDENT,,,,East Colorado Institute,2,Mechanical Engineering,159.00,,
+Cher,Lindgren,63686006028,152,92.8,cher.lindgren@example.com,STUDENT,,,,Southern Kunze,1,Biology,1792.00,,
+Haywood,Sanford,93176344085,162,50.1,haywood.sanford@example.com,STUDENT,,,,Eastern Wyoming Academy,3,Mechanical Engineering,1651.00,,
+Sterling,Pacocha,35481670738,151,58.3,sterling.pacocha@example.com,STUDENT,,,,East Block,4,Biology,212.00,,
+Eddie,Bartell,87434413722,175,65.0,eddie.bartell@example.com,RETIREE,,,,,,,,2615.63,47
+Lani,Willms,10654868026,185,88.0,lani.willms@example.com,EMPLOYEE,2004-07-12,Producer,55018.85,,,,,,
+Johnnie,Harvey,03327062354,178,71.1,johnnie.harvey@example.com,RETIREE,,,,,,,,1738.39,20
+Jeromy,Johnston,06090258923,182,54.1,jeromy.johnston@example.com,RETIREE,,,,,,,,2682.10,34
+Maryland,Purdy,58337401524,154,90.5,maryland.purdy@example.com,STUDENT,,,,Doyle University,2,Mechanical Engineering,2446.00,,
+Garret,Beier,73106489853,158,66.8,garret.beier@example.com,STUDENT,,,,Southern Sporer,2,Law,3788.00,,
+Belen,Paucek,68072229060,167,55.5,belen.paucek@example.com,EMPLOYEE,2006-08-20,Representative,52301.15,,,,,,
+Karine,Kihn,26588463835,166,99.2,karine.kihn@example.com,STUDENT,,,,West Minnesota Institute,5,Law,2505.00,,
+Theodore,Willms,13280838986,185,88.5,theodore.willms@example.com,RETIREE,,,,,,,,1112.63,13
+Alfonso,Hermann,58141913425,158,62.8,alfonso.hermann@example.com,RETIREE,,,,,,,,1939.87,19
+Clair,Friesen,27685565941,170,93.6,clair.friesen@example.com,STUDENT,,,,South Kunze University,1,Biology,608.00,,
+Carmelo,Boehm,64146273127,175,72.5,carmelo.boehm@example.com,EMPLOYEE,2004-04-02,Agent,60724.13,,,,,,
+Guadalupe,Ward,43646042342,187,65.1,guadalupe.ward@example.com,EMPLOYEE,1996-11-28,Architect,71227.28,,,,,,
+Brendon,Block,15335266100,168,66.8,brendon.block@example.com,STUDENT,,,,North Hawaii Academy,3,Biology,3435.00,,
+Angel,Hilpert,97808682612,160,77.5,angel.hilpert@example.com,RETIREE,,,,,,,,1292.92,41
+Melodee,Jenkins,46612702008,188,62.5,melodee.jenkins@example.com,RETIREE,,,,,,,,2166.00,32
+April,Lockman,03286880298,172,98.6,april.lockman@example.com,STUDENT,,,,Eastern Marvin,2,Law,612.00,,
+Al,Herman,39457255630,176,70.2,al.herman@example.com,EMPLOYEE,2023-07-12,Representative,52688.27,,,,,,
+Derek,Rau,62332598877,172,70.0,derek.rau@example.com,EMPLOYEE,2013-03-26,Facilitator,51905.28,,,,,,
+Douglas,Gerhold,25380662244,156,77.1,douglas.gerhold@example.com,STUDENT,,,,Eastern Huel University,1,Computer Science,1740.00,,
+Edmond,Kilback,07734582185,186,72.0,edmond.kilback@example.com,STUDENT,,,,The Maine College,3,Law,1238.00,,
+Laurinda,Collins,17835520262,181,82.4,laurinda.collins@example.com,STUDENT,,,,Western Illinois College,2,Mechanical Engineering,724.00,,
+Jeremy,Fisher,36596732880,161,68.2,jeremy.fisher@example.com,RETIREE,,,,,,,,2537.23,23
+Devon,Hane,63133049651,189,93.4,devon.hane@example.com,EMPLOYEE,2012-05-19,Representative,53353.22,,,,,,
+Selena,Trantow,83461718347,174,64.8,selena.trantow@example.com,EMPLOYEE,1997-10-23,Director,69491.39,,,,,,
+Kelley,Senger,17017076228,175,57.9,kelley.senger@example.com,STUDENT,,,,South Durgan University,5,Computer Science,2916.00,,
+Lizbeth,Hagenes,73740981370,172,79.7,lizbeth.hagenes@example.com,RETIREE,,,,,,,,1223.42,50
+Tish,Nicolas,11220367082,186,97.5,tish.nicolas@example.com,RETIREE,,,,,,,,1517.62,42
+Claude,Nicolas,10490736332,177,94.1,claude.nicolas@example.com,EMPLOYEE,2008-12-05,Director,98870.96,,,,,,
+Dudley,Jacobson,01975991557,172,53.0,dudley.jacobson@example.com,STUDENT,,,,North Dare College,3,Mechanical Engineering,275.00,,
+Coral,Stanton,06358336426,172,79.7,coral.stanton@example.com,EMPLOYEE,2002-06-05,Manager,85446.91,,,,,,
+Chante,Daniel,53370282658,151,62.4,chante.daniel@example.com,EMPLOYEE,2008-05-07,Manager,79631.25,,,,,,
+Gerard,Hand,61707835943,187,89.9,gerard.hand@example.com,RETIREE,,,,,,,,1510.08,34
+Broderick,Schuster,50836381480,162,87.0,broderick.schuster@example.com,RETIREE,,,,,,,,2595.84,26
+Toi,Leffler,06496632635,151,66.5,toi.leffler@example.com,STUDENT,,,,Northern Michigan College,1,Law,2778.00,,
+Aaron,Gaylord,35860406463,165,70.5,aaron.gaylord@example.com,STUDENT,,,,The Kentucky Academy,4,Computer Science,1949.00,,
+Lori,Grant,17202850642,175,95.1,lori.grant@example.com,STUDENT,,,,West Utah Institute,4,Biology,2932.00,,
+Clarissa,Lebsack,11533705414,156,59.5,clarissa.lebsack@example.com,STUDENT,,,,The Rhode Island University,4,Computer Science,1708.00,,
+Loura,Heidenreich,03055125571,178,67.2,loura.heidenreich@example.com,STUDENT,,,,Southern Rutherford Academy,5,Computer Science,2108.00,,
+Leandra,Stiedemann,53133188704,163,82.9,leandra.stiedemann@example.com,RETIREE,,,,,,,,1972.22,14
+Olga,DuBuque,31678897125,180,69.7,olga.dubuque@example.com,RETIREE,,,,,,,,2174.12,44
+Chandra,Russel,13852078647,163,90.2,chandra.russel@example.com,EMPLOYEE,1995-03-20,Developer,68852.09,,,,,,
+Dexter,Brekke,31706536674,187,51.9,dexter.brekke@example.com,RETIREE,,,,,,,,2049.21,25
+Tova,Bartell,68443407894,187,63.8,tova.bartell@example.com,RETIREE,,,,,,,,1264.76,18
+Madelene,Bernhard,17107272027,161,88.4,madelene.bernhard@example.com,STUDENT,,,,Southern Dickens Institute,1,Computer Science,2763.00,,
+Mammie,Harvey,84140631332,180,78.1,mammie.harvey@example.com,STUDENT,,,,Shields Institute,4,Law,1743.00,,
+Lyman,Littel,65344087628,176,73.6,lyman.littel@example.com,EMPLOYEE,1997-12-13,Liaison,51220.38,,,,,,
+Golda,Pfannerstill,00747127418,188,52.6,golda.pfannerstill@example.com,RETIREE,,,,,,,,1458.06,30
+Kip,Hickle,69324980111,175,74.5,kip.hickle@example.com,EMPLOYEE,2003-08-06,Officer,75234.91,,,,,,
+Jean,Friesen,05248549743,166,72.1,jean.friesen@example.com,EMPLOYEE,2023-07-07,Orchestrator,98422.11,,,,,,
+Gabriele,Legros,64444886632,151,60.6,gabriele.legros@example.com,EMPLOYEE,2024-03-25,Consultant,80032.02,,,,,,
+Gaston,Kutch,08366572731,166,84.6,gaston.kutch@example.com,STUDENT,,,,Gulgowski Academy,1,Biology,316.00,,
+Garrett,Bednar,77847948434,158,90.8,garrett.bednar@example.com,EMPLOYEE,2006-08-14,Orchestrator,63331.99,,,,,,
+Bebe,Sawayn,02847627525,169,64.9,bebe.sawayn@example.com,STUDENT,,,,North Georgia College,1,Mechanical Engineering,715.00,,
+Noreen,Casper,38530914014,166,65.8,noreen.casper@example.com,STUDENT,,,,Southern Mosciski,2,Mechanical Engineering,603.00,,
+Cythia,Abbott,63332570125,168,73.8,cythia.abbott@example.com,STUDENT,,,,East Arizona College,1,Computer Science,1777.00,,
+Casey,Olson,46167300438,151,50.2,casey.olson@example.com,EMPLOYEE,2002-11-24,Orchestrator,63488.18,,,,,,
+Maybell,Ritchie,94255262444,175,80.4,maybell.ritchie@example.com,STUDENT,,,,West Morar,3,Mechanical Engineering,1789.00,,
+Robin,Welch,88341703346,179,73.2,robin.welch@example.com,RETIREE,,,,,,,,2952.36,32
+Alva,Schuster,80960733713,175,98.8,alva.schuster@example.com,EMPLOYEE,1997-01-14,Administrator,96345.59,,,,,,
+Elli,Will,07642205235,176,74.0,elli.will@example.com,RETIREE,,,,,,,,1145.34,41
+Johnny,Legros,14531365183,156,51.3,johnny.legros@example.com,RETIREE,,,,,,,,1526.48,18
+Harley,Leuschke,10037795826,160,55.1,harley.leuschke@example.com,RETIREE,,,,,,,,1912.75,27
+Librada,Kohler,76480630367,180,85.9,librada.kohler@example.com,STUDENT,,,,East Blick University,2,Computer Science,1291.00,,
+Numbers,Smitham,20577081504,181,79.3,numbers.smitham@example.com,STUDENT,,,,Wolff Institute,2,Law,1395.00,,
+Miguel,Towne,73816941233,150,66.8,miguel.towne@example.com,EMPLOYEE,1995-12-15,Analyst,90410.10,,,,,,
+Pamelia,Konopelski,03256387024,181,82.1,pamelia.konopelski@example.com,STUDENT,,,,West Anderson Institute,3,Computer Science,761.00,,
+Rosia,Bergstrom,65286367274,177,85.0,rosia.bergstrom@example.com,STUDENT,,,,McClure College,4,Biology,2314.00,,
+Lincoln,Rosenbaum,82756361603,153,91.0,lincoln.rosenbaum@example.com,EMPLOYEE,1999-02-12,Assistant,99193.94,,,,,,
+Van,Goldner,05527367015,153,87.9,van.goldner@example.com,STUDENT,,,,Stanton University,1,Law,2929.00,,
+Salome,Gibson,34060320631,174,77.4,salome.gibson@example.com,EMPLOYEE,2015-06-23,Developer,79978.02,,,,,,
+Foster,Conn,16084131922,166,62.2,foster.conn@example.com,RETIREE,,,,,,,,1224.29,29
+Jolynn,Wuckert,66853674074,185,65.9,jolynn.wuckert@example.com,EMPLOYEE,2014-03-28,Manager,70884.44,,,,,,
+Michel,Fritsch,71514696131,151,70.8,michel.fritsch@example.com,EMPLOYEE,1997-12-26,Specialist,86096.52,,,,,,
+Vi,Conroy,12390088640,171,58.3,vi.conroy@example.com,STUDENT,,,,The Utah University,4,Biology,1595.00,,
+Darwin,Dickens,76808396167,162,53.7,darwin.dickens@example.com,RETIREE,,,,,,,,2275.88,42
+Lloyd,Hyatt,35055840780,160,60.1,lloyd.hyatt@example.com,STUDENT,,,,Olson College,2,Law,654.00,,
+Rory,Von,50719784504,165,67.3,rory.von@example.com,RETIREE,,,,,,,,1385.35,35
+Ester,Bins,36712465450,162,96.7,ester.bins@example.com,EMPLOYEE,2006-08-10,Agent,70576.95,,,,,,
+Britt,Lebsack,24988522762,152,82.9,britt.lebsack@example.com,RETIREE,,,,,,,,1732.54,12
+Malcom,Reynolds,08014123467,150,68.3,malcom.reynolds@example.com,EMPLOYEE,2019-07-25,Assistant,78548.26,,,,,,
+Kenneth,Flatley,28871355124,167,92.3,kenneth.flatley@example.com,STUDENT,,,,Boehm University,4,Biology,3964.00,,
+Angie,Champlin,58362520334,173,95.5,angie.champlin@example.com,RETIREE,,,,,,,,1957.88,23
+Marcos,Bradtke,66242747827,150,57.3,marcos.bradtke@example.com,RETIREE,,,,,,,,1964.55,44
+Roselee,Ullrich,76783121976,168,84.7,roselee.ullrich@example.com,RETIREE,,,,,,,,2717.94,16
+Kory,Bechtelar,40158215542,156,59.0,kory.bechtelar@example.com,RETIREE,,,,,,,,2668.56,21
+Charita,Gusikowski,41555731210,189,65.4,charita.gusikowski@example.com,EMPLOYEE,1997-03-01,Associate,82776.38,,,,,,
+Elisha,Parker,98535732526,162,55.5,elisha.parker@example.com,EMPLOYEE,2023-10-02,Administrator,65025.04,,,,,,
+Andrea,Collins,84116151254,178,83.8,andrea.collins@example.com,RETIREE,,,,,,,,2133.36,16
+Lee,Effertz,37522406035,169,94.4,lee.effertz@example.com,RETIREE,,,,,,,,1281.56,35
+Freddie,Stehr,25822495254,153,91.6,freddie.stehr@example.com,STUDENT,,,,Reichert Academy,2,Computer Science,3335.00,,
+Kelley,DuBuque,17754007631,172,99.1,kelley.dubuque@example.com,STUDENT,,,,Sipes Institute,2,Biology,969.00,,
+Hal,Jast,47140278234,163,53.9,hal.jast@example.com,STUDENT,,,,West Maryland College,1,Law,2144.00,,
+Kandis,Kemmer,24661170833,175,57.3,kandis.kemmer@example.com,RETIREE,,,,,,,,1108.15,41
+Samara,Schaden,47164448354,172,81.3,samara.schaden@example.com,EMPLOYEE,2015-06-19,Orchestrator,53601.89,,,,,,
+Walter,Corwin,33457155125,166,80.6,walter.corwin@example.com,RETIREE,,,,,,,,2088.10,48
+Dylan,Mayer,95495887270,187,95.3,dylan.mayer@example.com,EMPLOYEE,1998-10-03,Strategist,55814.43,,,,,,
+Efren,Friesen,12722826617,171,68.5,efren.friesen@example.com,STUDENT,,,,Dickens University,5,Mechanical Engineering,1799.00,,
+Lorine,Gottlieb,82521387461,159,65.4,lorine.gottlieb@example.com,STUDENT,,,,Nikolaus Academy,5,Mechanical Engineering,3875.00,,
+Justin,Tillman,82405463291,181,63.1,justin.tillman@example.com,RETIREE,,,,,,,,2522.87,33
+Desmond,Gerhold,75290254148,156,72.0,desmond.gerhold@example.com,STUDENT,,,,West Skiles,5,Computer Science,467.00,,
+Jenna,Howell,93222848111,150,64.8,jenna.howell@example.com,EMPLOYEE,2024-07-19,Planner,88574.37,,,,,,
+Alan,Quigley,81016113283,159,65.2,alan.quigley@example.com,RETIREE,,,,,,,,1285.75,48
+Merrill,Koss,34275337862,162,56.2,merrill.koss@example.com,RETIREE,,,,,,,,2683.98,12
+Maryjo,Moen,43407822052,177,89.2,maryjo.moen@example.com,STUDENT,,,,Southern Beahan University,1,Law,864.00,,
+Porfirio,Cole,32724582244,168,60.2,porfirio.cole@example.com,RETIREE,,,,,,,,1629.57,19
+Quincy,Schamberger,64830301387,182,82.8,quincy.schamberger@example.com,STUDENT,,,,West North Dakota College,4,Mechanical Engineering,3187.00,,
+Mamie,Blanda,51601229765,171,88.5,mamie.blanda@example.com,EMPLOYEE,2018-10-08,Strategist,52232.99,,,,,,
+Makeda,Mayert,82883924996,175,78.5,makeda.mayert@example.com,EMPLOYEE,2005-03-17,Designer,85375.64,,,,,,
+Neville,Lemke,33176477162,156,62.4,neville.lemke@example.com,EMPLOYEE,2009-08-17,Strategist,67614.11,,,,,,
+Mindi,Jacobs,21535605265,166,55.8,mindi.jacobs@example.com,EMPLOYEE,2004-03-24,Officer,97597.74,,,,,,
+Etsuko,D'Amore,21604683484,174,85.9,etsuko.d'amore@example.com,EMPLOYEE,2022-09-23,Consultant,92257.84,,,,,,
+Van,Rice,22791859610,181,52.2,van.rice@example.com,RETIREE,,,,,,,,2097.69,26
+Mozelle,Breitenberg,52588574484,172,91.2,mozelle.breitenberg@example.com,EMPLOYEE,2013-04-05,Manager,84432.09,,,,,,
+Isaac,Buckridge,27003872092,170,96.5,isaac.buckridge@example.com,STUDENT,,,,Grant University,3,Mechanical Engineering,2056.00,,
+Michelina,Schneider,46332775288,160,65.3,michelina.schneider@example.com,RETIREE,,,,,,,,1120.16,12
+Guy,Gutmann,55179014131,159,55.6,guy.gutmann@example.com,STUDENT,,,,Western Utah University,2,Computer Science,474.00,,
+Kermit,Muller,10578483766,161,58.2,kermit.muller@example.com,RETIREE,,,,,,,,1738.32,40
+Korey,Herzog,71007660075,155,99.8,korey.herzog@example.com,STUDENT,,,,West Nader,5,Biology,3236.00,,
+Marc,Keebler,68818177936,186,94.7,marc.keebler@example.com,EMPLOYEE,2004-05-26,Representative,96824.46,,,,,,
+Christi,Herman,42047671350,159,66.5,christi.herman@example.com,EMPLOYEE,2023-04-28,Consultant,60029.14,,,,,,
+Bok,Brown,60085665316,159,68.2,bok.brown@example.com,EMPLOYEE,2018-10-10,Liaison,60056.64,,,,,,
+Ellyn,Botsford,01265039167,178,86.8,ellyn.botsford@example.com,RETIREE,,,,,,,,1913.03,22
+Harris,Bashirian,12623353875,168,50.1,harris.bashirian@example.com,RETIREE,,,,,,,,1270.36,47
+Al,Jerde,53426070729,152,78.3,al.jerde@example.com,STUDENT,,,,East Erdman Academy,3,Computer Science,2733.00,,
+Rebecca,Hilll,01117823577,168,67.1,rebecca.hilll@example.com,RETIREE,,,,,,,,1703.15,40
+Natosha,Brown,38358687666,167,86.1,natosha.brown@example.com,EMPLOYEE,2020-07-11,Specialist,86838.12,,,,,,
+Andria,Cole,28110452068,170,98.7,andria.cole@example.com,RETIREE,,,,,,,,2561.86,15
+Donald,Lind,91011620485,163,97.5,donald.lind@example.com,STUDENT,,,,North Shanahan,1,Biology,2742.00,,
+Josiah,Brown,53878766682,175,52.6,josiah.brown@example.com,EMPLOYEE,2019-12-02,Producer,71318.12,,,,,,
+Olympia,Schroeder,43481736226,189,60.8,olympia.schroeder@example.com,RETIREE,,,,,,,,2437.32,41
+Carin,Brekke,53759814286,164,65.4,carin.brekke@example.com,RETIREE,,,,,,,,1832.74,46
+Nova,Hudson,60778040625,157,58.0,nova.hudson@example.com,EMPLOYEE,2021-10-23,Producer,51464.29,,,,,,
+George,Hartmann,13733698471,182,52.4,george.hartmann@example.com,STUDENT,,,,Southern Oregon College,1,Mechanical Engineering,1978.00,,
+Andrea,Parker,48136796125,185,86.7,andrea.parker@example.com,RETIREE,,,,,,,,2519.68,16
+Adriene,Bogan,65188275148,171,83.8,adriene.bogan@example.com,EMPLOYEE,1999-12-06,Administrator,87294.44,,,,,,
+Coleman,Considine,90167738852,180,88.2,coleman.considine@example.com,RETIREE,,,,,,,,2694.99,45
+Fernando,Walker,03011569146,180,86.2,fernando.walker@example.com,EMPLOYEE,2006-08-27,Executive,84925.85,,,,,,
+Gracia,Schoen,42838034272,185,99.8,gracia.schoen@example.com,RETIREE,,,,,,,,2788.01,21
+Reinaldo,Larkin,30805477022,167,75.8,reinaldo.larkin@example.com,STUDENT,,,,East Kris,5,Computer Science,237.00,,
+Mark,Breitenberg,22666419808,169,69.8,mark.breitenberg@example.com,EMPLOYEE,2004-12-03,Associate,98640.35,,,,,,
+Dane,Fahey,17448788195,185,91.9,dane.fahey@example.com,EMPLOYEE,2024-02-11,Strategist,65961.42,,,,,,
+Shella,Kautzer,82681430164,179,94.4,shella.kautzer@example.com,EMPLOYEE,1995-05-08,Manager,87944.82,,,,,,
+Haydee,Luettgen,70525712378,175,62.4,haydee.luettgen@example.com,RETIREE,,,,,,,,2386.67,15
+Andrew,Willms,31354866763,189,95.8,andrew.willms@example.com,EMPLOYEE,2008-02-12,Officer,98163.65,,,,,,
+Shaneka,Smitham,22876472330,170,93.2,shaneka.smitham@example.com,RETIREE,,,,,,,,1435.68,24
+Shan,Hodkiewicz,45666511621,178,66.4,shan.hodkiewicz@example.com,STUDENT,,,,Southern Altenwerth,5,Law,3209.00,,
+Arielle,Rath,50023976471,169,72.8,arielle.rath@example.com,RETIREE,,,,,,,,2487.51,42
+Gale,Greenfelder,49151656465,183,52.3,gale.greenfelder@example.com,RETIREE,,,,,,,,2961.57,23
+Ben,Oberbrunner,81004576718,184,96.2,ben.oberbrunner@example.com,STUDENT,,,,Southern Virginia Institute,4,Mechanical Engineering,9.00,,
+Luigi,Daugherty,71703114228,166,51.7,luigi.daugherty@example.com,RETIREE,,,,,,,,1954.94,45
+Silas,Altenwerth,41454640387,167,78.6,silas.altenwerth@example.com,EMPLOYEE,2015-05-21,Associate,88275.91,,,,,,
+Oleta,Kuhn,61548418750,155,96.9,oleta.kuhn@example.com,RETIREE,,,,,,,,1770.95,42
+Genaro,Waters,68316212106,166,60.9,genaro.waters@example.com,STUDENT,,,,Southern Daniel,3,Computer Science,589.00,,
+Rose,Baumbach,31836825798,175,58.3,rose.baumbach@example.com,EMPLOYEE,2005-08-15,Analyst,78065.99,,,,,,
+Whitney,Lakin,84770503748,187,85.9,whitney.lakin@example.com,EMPLOYEE,2011-10-22,Representative,66558.28,,,,,,
+Luana,Sporer,65864858869,168,82.4,luana.sporer@example.com,RETIREE,,,,,,,,2801.92,16
+Johnnie,Kuhn,57635012509,174,57.5,johnnie.kuhn@example.com,EMPLOYEE,2012-02-07,Specialist,80901.24,,,,,,
+Yuonne,Gerhold,46678279227,172,77.7,yuonne.gerhold@example.com,STUDENT,,,,Eastern Spencer,2,Biology,197.00,,
+Herschel,Conn,18248630272,177,98.3,herschel.conn@example.com,EMPLOYEE,2009-07-24,Coordinator,93848.46,,,,,,
+Qiana,Dietrich,32714328621,165,82.1,qiana.dietrich@example.com,EMPLOYEE,2024-07-17,Executive,72132.93,,,,,,
+Karl,Corkery,10192628852,166,96.3,karl.corkery@example.com,RETIREE,,,,,,,,1489.94,30
+Milton,Bergnaum,80421567677,180,66.9,milton.bergnaum@example.com,EMPLOYEE,2012-12-26,Associate,65641.61,,,,,,
+Elizabet,Durgan,78128133372,180,89.4,elizabet.durgan@example.com,RETIREE,,,,,,,,1738.98,50
+Elwood,Bednar,77098271032,150,97.5,elwood.bednar@example.com,EMPLOYEE,2015-02-02,Manager,53023.33,,,,,,
+Chastity,Smitham,05672601227,173,95.7,chastity.smitham@example.com,EMPLOYEE,2021-06-16,Analyst,93712.90,,,,,,
+Larae,Ruecker,41107142411,186,77.1,larae.ruecker@example.com,EMPLOYEE,2013-03-10,Facilitator,58178.99,,,,,,
+Tresa,Wilkinson,56881614338,160,67.4,tresa.wilkinson@example.com,STUDENT,,,,North Goldner,3,Law,3725.00,,
+Cleo,Rosenbaum,19509036565,167,60.5,cleo.rosenbaum@example.com,RETIREE,,,,,,,,2908.24,49
+Regena,Morissette,63031051970,169,75.8,regena.morissette@example.com,RETIREE,,,,,,,,2145.54,39
+Greg,Pollich,77754297112,159,70.0,greg.pollich@example.com,STUDENT,,,,West Conroy,1,Law,2254.00,,
+Stephane,Rau,73727674823,152,57.8,stephane.rau@example.com,STUDENT,,,,East Hilll Institute,1,Biology,1749.00,,
+Chris,O'Hara,69435672300,179,73.2,chris.o'hara@example.com,STUDENT,,,,Labadie College,3,Mechanical Engineering,2526.00,,
+Theodore,Denesik,41506644972,159,99.9,theodore.denesik@example.com,EMPLOYEE,2022-11-18,Manager,54887.89,,,,,,
+Stephan,Huels,55800118453,173,96.4,stephan.huels@example.com,EMPLOYEE,1998-08-24,Executive,74448.90,,,,,,
+Alina,Hintz,74580624268,163,81.1,alina.hintz@example.com,STUDENT,,,,Bradtke Academy,5,Mechanical Engineering,1453.00,,
+Danny,Ankunding,76010528219,172,95.8,danny.ankunding@example.com,RETIREE,,,,,,,,1501.55,23
+Norene,Corkery,86848448044,163,74.5,norene.corkery@example.com,EMPLOYEE,2014-02-22,Planner,76856.84,,,,,,
+Lavern,Simonis,26308531808,184,70.3,lavern.simonis@example.com,RETIREE,,,,,,,,2259.55,21
+Malik,Beier,86435141161,155,51.5,malik.beier@example.com,EMPLOYEE,1997-08-10,Officer,61668.17,,,,,,
+Susann,Hoppe,00555083740,189,68.2,susann.hoppe@example.com,STUDENT,,,,Western Heller,4,Mechanical Engineering,302.00,,
+Marline,Kutch,46421312032,157,62.8,marline.kutch@example.com,EMPLOYEE,2004-10-22,Producer,61132.79,,,,,,
+Millard,Hirthe,23470685823,188,63.1,millard.hirthe@example.com,EMPLOYEE,1999-12-16,Executive,58038.55,,,,,,
+Antoinette,Rempel,23302375253,184,91.0,antoinette.rempel@example.com,EMPLOYEE,1995-01-26,Architect,94999.75,,,,,,
+Gale,Kiehn,84101541988,165,83.7,gale.kiehn@example.com,EMPLOYEE,2021-09-04,Planner,76062.60,,,,,,
+Rossana,Green,81288648067,185,73.6,rossana.green@example.com,EMPLOYEE,2013-07-16,Officer,68461.59,,,,,,
+Bert,Bernier,87033006942,171,92.6,bert.bernier@example.com,RETIREE,,,,,,,,1983.87,20
+Raul,Fahey,10484838181,180,68.6,raul.fahey@example.com,EMPLOYEE,2013-02-18,Supervisor,78071.33,,,,,,
+Marlin,Walter,40764588142,179,58.4,marlin.walter@example.com,STUDENT,,,,East Beer Academy,4,Computer Science,122.00,,
+Antonia,Reynolds,57200785792,170,95.2,antonia.reynolds@example.com,RETIREE,,,,,,,,2256.79,46
+Jarod,Stanton,37331502206,163,62.5,jarod.stanton@example.com,RETIREE,,,,,,,,1895.23,39
+Wally,Dooley,25603041156,166,77.0,wally.dooley@example.com,EMPLOYEE,2004-04-22,Director,78358.25,,,,,,
+Parker,Hickle,21150882287,183,87.2,parker.hickle@example.com,RETIREE,,,,,,,,1586.65,49
+Elina,Kunde,26430565685,175,67.6,elina.kunde@example.com,EMPLOYEE,2015-05-27,Administrator,74761.01,,,,,,
+Chris,O'Conner,75381166337,155,69.8,chris.o'conner@example.com,STUDENT,,,,East Thompson University,4,Computer Science,237.00,,
+Dominica,Ebert,35434752457,161,62.3,dominica.ebert@example.com,EMPLOYEE,2017-01-01,Manager,96829.58,,,,,,
+Ahmad,Herzog,13858203317,156,63.8,ahmad.herzog@example.com,STUDENT,,,,Southern Mayert College,2,Computer Science,446.00,,
+Wiley,Feeney,38828556973,177,79.0,wiley.feeney@example.com,STUDENT,,,,Bauch Academy,3,Mechanical Engineering,786.00,,
+Elvin,Keebler,78043014382,183,76.2,elvin.keebler@example.com,EMPLOYEE,1999-10-09,Administrator,70569.84,,,,,,
+Shannon,Grimes,63216257503,168,75.8,shannon.grimes@example.com,RETIREE,,,,,,,,1456.42,34
+Eugena,Schmeler,64212728346,166,84.4,eugena.schmeler@example.com,EMPLOYEE,2022-06-26,Director,88887.44,,,,,,
+Glenna,Schinner,27654843200,150,58.1,glenna.schinner@example.com,STUDENT,,,,North Massachusetts Academy,3,Mechanical Engineering,1822.00,,
+Dusty,Kuvalis,61378775254,174,59.8,dusty.kuvalis@example.com,EMPLOYEE,2011-02-09,Developer,54090.12,,,,,,
+Roscoe,Leannon,38418563302,173,79.0,roscoe.leannon@example.com,EMPLOYEE,2021-03-25,Architect,55401.22,,,,,,
+Jewell,Schumm,28843788284,172,90.8,jewell.schumm@example.com,RETIREE,,,,,,,,2867.19,32
+Frances,Lueilwitz,19355600451,180,68.6,frances.lueilwitz@example.com,RETIREE,,,,,,,,2711.43,30
+Emile,White,95861878225,174,71.3,emile.white@example.com,RETIREE,,,,,,,,1653.45,28
+Sherlyn,Green,00170376284,167,75.6,sherlyn.green@example.com,EMPLOYEE,2000-09-08,Executive,59611.22,,,,,,
+Agustin,Pfannerstill,03496333668,150,79.5,agustin.pfannerstill@example.com,RETIREE,,,,,,,,1503.85,38
+Lenna,Schinner,57246732381,177,52.0,lenna.schinner@example.com,EMPLOYEE,2001-07-11,Planner,68501.37,,,,,,
+Gracie,Bailey,96730474534,189,62.3,gracie.bailey@example.com,RETIREE,,,,,,,,1221.98,15
+Michael,Baumbach,82653270100,163,85.4,michael.baumbach@example.com,EMPLOYEE,2017-03-08,Executive,87364.60,,,,,,
+Malika,West,77566565775,157,78.5,malika.west@example.com,RETIREE,,,,,,,,2026.67,14
+Kaleigh,Stokes,21710012494,165,93.4,kaleigh.stokes@example.com,EMPLOYEE,1999-02-24,Executive,71887.49,,,,,,
+Ardith,Upton,00622482200,166,51.7,ardith.upton@example.com,EMPLOYEE,1999-05-04,Officer,69782.71,,,,,,
+Rigoberto,Mosciski,15971543461,174,83.0,rigoberto.mosciski@example.com,RETIREE,,,,,,,,2890.17,45
+Major,Rippin,17754156288,176,51.9,major.rippin@example.com,STUDENT,,,,Northern South Carolina College,1,Law,3386.00,,
+Heike,Zboncak,78741029538,164,61.7,heike.zboncak@example.com,STUDENT,,,,Connelly University,5,Biology,996.00,,
+Eilene,Smith,30507111413,184,99.1,eilene.smith@example.com,RETIREE,,,,,,,,2474.25,40
+Krista,Kovacek,04531477706,178,74.9,krista.kovacek@example.com,RETIREE,,,,,,,,2010.26,39
+Philip,Rau,61527802217,171,61.4,philip.rau@example.com,EMPLOYEE,2023-10-24,Developer,85911.54,,,,,,
+Boris,Kemmer,68700083636,165,81.8,boris.kemmer@example.com,EMPLOYEE,2008-12-01,Officer,78640.56,,,,,,
+Salley,Parker,86466085349,153,59.9,salley.parker@example.com,EMPLOYEE,2000-04-24,Orchestrator,84203.84,,,,,,
+Winston,Kautzer,36185702581,154,52.3,winston.kautzer@example.com,RETIREE,,,,,,,,1988.30,39
+Elizabeth,Marquardt,18398744682,173,89.7,elizabeth.marquardt@example.com,STUDENT,,,,Northern Oregon Institute,1,Mechanical Engineering,3025.00,,
+Nora,Raynor,04711362056,150,88.2,nora.raynor@example.com,EMPLOYEE,2004-08-27,Assistant,90994.96,,,,,,
+Valene,Yundt,63564607902,154,64.5,valene.yundt@example.com,RETIREE,,,,,,,,1423.70,13
+Darci,Ankunding,12424468023,172,92.5,darci.ankunding@example.com,RETIREE,,,,,,,,2044.89,48
+Jeff,Wunsch,02882848142,154,62.1,jeff.wunsch@example.com,STUDENT,,,,Southern Reinger,4,Law,2406.00,,
+Corey,Zulauf,01823078282,168,93.8,corey.zulauf@example.com,EMPLOYEE,1996-09-25,Executive,86724.05,,,,,,
+Demetrius,Von,23180327219,189,68.4,demetrius.von@example.com,RETIREE,,,,,,,,2916.32,44
+Winona,Weissnat,65757672320,164,53.3,winona.weissnat@example.com,STUDENT,,,,West Ruecker,2,Computer Science,3291.00,,
+Greg,West,31446546176,164,87.4,greg.west@example.com,STUDENT,,,,East Kling,4,Computer Science,1657.00,,
+Jody,Lowe,17429775055,172,67.2,jody.lowe@example.com,RETIREE,,,,,,,,2183.87,19
+Ernesto,Stamm,28565040305,179,52.8,ernesto.stamm@example.com,EMPLOYEE,1998-01-25,Assistant,96807.07,,,,,,
+Clarisa,Hagenes,12557935635,156,55.9,clarisa.hagenes@example.com,RETIREE,,,,,,,,2516.79,31
+Scott,Nienow,66333530886,154,64.6,scott.nienow@example.com,EMPLOYEE,2006-05-16,Coordinator,59405.47,,,,,,
+Cleveland,Hills,64588516874,180,54.6,cleveland.hills@example.com,RETIREE,,,,,,,,1355.28,15
+Ricardo,Bahringer,56357062671,175,95.4,ricardo.bahringer@example.com,RETIREE,,,,,,,,1583.50,22
+Abby,Schmidt,94403709922,172,61.6,abby.schmidt@example.com,EMPLOYEE,1998-01-03,Agent,84742.45,,,,,,
+Coleman,Wiza,97819662825,158,86.3,coleman.wiza@example.com,STUDENT,,,,East North Dakota Institute,3,Law,1561.00,,
+Darcey,Larson,76101871446,183,54.6,darcey.larson@example.com,STUDENT,,,,Baumbach University,4,Mechanical Engineering,3043.00,,
+Andrew,Ratke,42262832884,160,65.4,andrew.ratke@example.com,STUDENT,,,,North Arizona College,4,Mechanical Engineering,422.00,,
+Stacy,Zemlak,35935042448,169,57.4,stacy.zemlak@example.com,STUDENT,,,,Harris University,3,Law,2100.00,,
+Raymundo,Williamson,87466871042,186,69.0,raymundo.williamson@example.com,EMPLOYEE,2011-09-01,Strategist,77872.73,,,,,,
+Florentino,Konopelski,08555673162,161,58.0,florentino.konopelski@example.com,STUDENT,,,,Northern Iowa Institute,1,Mechanical Engineering,2544.00,,
+Danial,Hammes,78318900922,181,97.3,danial.hammes@example.com,RETIREE,,,,,,,,2906.60,37
+Cody,Reichel,03161000966,161,86.8,cody.reichel@example.com,STUDENT,,,,The Schowalter College,1,Computer Science,492.00,,
+Cristopher,Denesik,11426427774,184,85.8,cristopher.denesik@example.com,RETIREE,,,,,,,,2907.77,39
+Graig,Von,03109185042,180,94.6,graig.von@example.com,EMPLOYEE,2004-02-12,Manager,74806.09,,,,,,
+Claudine,Swift,27062547832,167,50.2,claudine.swift@example.com,EMPLOYEE,2019-07-10,Assistant,98445.63,,,,,,
+Justin,Franecki,80406044222,156,55.1,justin.franecki@example.com,RETIREE,,,,,,,,2425.28,28
+Cory,Leffler,02870524706,172,88.5,cory.leffler@example.com,RETIREE,,,,,,,,1574.00,19
+Emory,Mann,42603243847,169,94.0,emory.mann@example.com,EMPLOYEE,1999-12-06,Officer,91772.72,,,,,,
+Gretta,Aufderhar,61658320978,164,58.7,gretta.aufderhar@example.com,RETIREE,,,,,,,,1457.53,45
+Vanita,Maggio,89655797046,172,54.4,vanita.maggio@example.com,STUDENT,,,,Eastern Grant,1,Law,2002.00,,
+Annetta,Wunsch,78504671283,164,97.7,annetta.wunsch@example.com,EMPLOYEE,2008-04-05,Developer,91144.75,,,,,,
+Isiah,Reinger,27785600386,177,93.3,isiah.reinger@example.com,STUDENT,,,,East Moen College,2,Computer Science,2044.00,,
+Cher,Hamill,41588132832,186,94.7,cher.hamill@example.com,STUDENT,,,,Western Nitzsche Institute,5,Biology,906.00,,
+Malcolm,Beer,84768344381,176,52.7,malcolm.beer@example.com,EMPLOYEE,2013-08-04,Producer,68432.20,,,,,,
+Garrett,Jerde,83502866255,156,85.4,garrett.jerde@example.com,RETIREE,,,,,,,,1390.52,10
+Gregory,Hodkiewicz,55550138573,178,69.9,gregory.hodkiewicz@example.com,STUDENT,,,,Northern Arkansas University,5,Biology,2132.00,,
+Violeta,McCullough,75365141577,182,87.2,violeta.mccullough@example.com,EMPLOYEE,2005-01-17,Associate,94118.90,,,,,,
+Hugo,Predovic,86151064558,179,72.1,hugo.predovic@example.com,EMPLOYEE,2013-08-02,Executive,89846.61,,,,,,
+Sharleen,Nolan,85363913643,163,92.3,sharleen.nolan@example.com,RETIREE,,,,,,,,1470.73,50
+Autumn,Walker,29374672144,187,67.2,autumn.walker@example.com,RETIREE,,,,,,,,1402.97,29
+Majorie,Zboncak,26879952202,167,62.3,majorie.zboncak@example.com,RETIREE,,,,,,,,2105.70,10
+Antonette,Jast,65827358123,173,56.9,antonette.jast@example.com,RETIREE,,,,,,,,1191.62,47
+Zenobia,Bednar,20351739547,151,94.2,zenobia.bednar@example.com,EMPLOYEE,2015-11-03,Specialist,94089.58,,,,,,
+Lorna,Schmitt,61185405898,189,87.5,lorna.schmitt@example.com,STUDENT,,,,Western Minnesota University,5,Mechanical Engineering,3938.00,,
+Georgine,Labadie,20937839227,156,78.1,georgine.labadie@example.com,RETIREE,,,,,,,,2955.58,17
+Amy,Purdy,15430608074,156,92.5,amy.purdy@example.com,RETIREE,,,,,,,,1801.54,22
+Jerrell,Jacobi,00667632477,156,51.9,jerrell.jacobi@example.com,EMPLOYEE,2008-01-15,Supervisor,80069.19,,,,,,
+Hilario,Hilpert,84450731192,151,75.0,hilario.hilpert@example.com,STUDENT,,,,South Vermont Academy,5,Biology,2730.00,,
+Darci,Mohr,22985741815,160,75.0,darci.mohr@example.com,RETIREE,,,,,,,,1185.41,38
+Armand,Spencer,47466145655,153,50.6,armand.spencer@example.com,STUDENT,,,,Northern Wolff,1,Computer Science,1926.00,,
+Trinidad,McGlynn,82656961898,166,83.6,trinidad.mcglynn@example.com,RETIREE,,,,,,,,2515.15,41
+Tomika,Fadel,28258686346,173,71.5,tomika.fadel@example.com,RETIREE,,,,,,,,2861.63,10
+Pamella,Hills,98847870534,155,50.0,pamella.hills@example.com,STUDENT,,,,Southern Feeney University,4,Mechanical Engineering,3977.00,,
+Alton,Monahan,31222842910,152,94.8,alton.monahan@example.com,EMPLOYEE,2000-02-15,Supervisor,72218.73,,,,,,
+Anibal,Rice,37215344785,151,67.7,anibal.rice@example.com,RETIREE,,,,,,,,1955.01,49
+Cindie,Hudson,80422597345,176,84.2,cindie.hudson@example.com,EMPLOYEE,1999-04-12,Producer,58717.76,,,,,,
+Graciela,Dickinson,01643770665,179,61.2,graciela.dickinson@example.com,EMPLOYEE,2000-09-24,Liaison,94978.98,,,,,,
+Benito,Dicki,04334013395,160,68.2,benito.dicki@example.com,EMPLOYEE,1996-08-28,Technician,57889.22,,,,,,
+Donny,Schowalter,81240467041,158,91.4,donny.schowalter@example.com,RETIREE,,,,,,,,1673.66,21
+Dan,Moore,17777671484,151,59.4,dan.moore@example.com,RETIREE,,,,,,,,2160.70,30
+Karl,Pacocha,53896802570,157,68.9,karl.pacocha@example.com,EMPLOYEE,2015-03-14,Supervisor,90731.85,,,,,,
+Lashonda,Becker,78872426131,158,59.7,lashonda.becker@example.com,RETIREE,,,,,,,,2239.27,48
+Mikki,Durgan,09110815783,151,99.0,mikki.durgan@example.com,STUDENT,,,,Langosh Institute,5,Computer Science,700.00,,
+Dean,Reichert,33251807062,185,57.0,dean.reichert@example.com,STUDENT,,,,Western Rice College,2,Mechanical Engineering,2271.00,,
+Yasmin,MacGyver,17229306133,175,56.5,yasmin.macgyver@example.com,STUDENT,,,,South Toy College,3,Mechanical Engineering,1586.00,,
+Raymond,Stroman,28800721216,187,53.1,raymond.stroman@example.com,RETIREE,,,,,,,,2928.21,18
+Boyd,Bins,50628222418,154,80.7,boyd.bins@example.com,EMPLOYEE,2018-10-11,Executive,50887.22,,,,,,
+Crysta,Trantow,55061215467,177,87.6,crysta.trantow@example.com,RETIREE,,,,,,,,1604.78,36
+Isiah,Lang,60688666604,157,78.6,isiah.lang@example.com,RETIREE,,,,,,,,1989.91,18
+Aaron,Borer,11450463773,167,96.9,aaron.borer@example.com,RETIREE,,,,,,,,1963.86,47
+Kandis,Klocko,88941853756,185,56.4,kandis.klocko@example.com,EMPLOYEE,2020-06-06,Officer,94578.40,,,,,,
+Nolan,Nolan,23357010423,168,76.4,nolan.nolan@example.com,EMPLOYEE,2024-07-01,Designer,78398.24,,,,,,
+Freddie,Johnston,72165972666,160,81.1,freddie.johnston@example.com,EMPLOYEE,2003-11-13,Administrator,59267.59,,,,,,
+Ramiro,Casper,49631251910,177,57.2,ramiro.casper@example.com,EMPLOYEE,1997-03-16,Planner,63311.86,,,,,,
+Gabriel,Dietrich,97824318371,166,75.4,gabriel.dietrich@example.com,EMPLOYEE,2024-10-17,Representative,64901.04,,,,,,
+Almeda,Auer,71002432424,178,94.6,almeda.auer@example.com,EMPLOYEE,2015-10-28,Technician,57028.59,,,,,,
+Fabian,Christiansen,06052034572,180,99.8,fabian.christiansen@example.com,EMPLOYEE,2016-09-22,Supervisor,51205.54,,,,,,
+Basil,Rempel,84488591056,171,62.8,basil.rempel@example.com,RETIREE,,,,,,,,2618.35,26
+Sheldon,Jacobson,80677145533,150,81.5,sheldon.jacobson@example.com,STUDENT,,,,South Reichel Academy,3,Biology,995.00,,
+Erasmo,Kerluke,64984838581,160,68.7,erasmo.kerluke@example.com,RETIREE,,,,,,,,1626.55,40
+Thanh,Jaskolski,78254553832,176,86.8,thanh.jaskolski@example.com,EMPLOYEE,1998-08-24,Engineer,69548.66,,,,,,
+Denese,Vandervort,23162932998,177,60.1,denese.vandervort@example.com,RETIREE,,,,,,,,1600.55,40
+Bobbie,Ernser,22625448188,173,61.0,bobbie.ernser@example.com,EMPLOYEE,2002-09-10,Engineer,63844.39,,,,,,
+Mel,Feest,92063363474,171,61.8,mel.feest@example.com,RETIREE,,,,,,,,1399.88,36
+Debi,Fadel,81617030473,178,78.9,debi.fadel@example.com,STUDENT,,,,North Stoltenberg Academy,2,Biology,3676.00,,
+Titus,Ruecker,51280123346,167,79.9,titus.ruecker@example.com,EMPLOYEE,2019-12-25,Associate,89143.11,,,,,,
+Arnulfo,Smitham,34122748032,171,89.6,arnulfo.smitham@example.com,EMPLOYEE,2014-11-22,Developer,53947.36,,,,,,
+Rodolfo,Bogan,20463432789,152,59.9,rodolfo.bogan@example.com,RETIREE,,,,,,,,1823.74,44
+Abdul,Schroeder,78229741221,170,82.8,abdul.schroeder@example.com,RETIREE,,,,,,,,1195.87,27
+Antione,Runte,03580718523,173,80.1,antione.runte@example.com,RETIREE,,,,,,,,1081.95,17
+Yvone,Casper,38431420950,185,75.7,yvone.casper@example.com,STUDENT,,,,Wisozk University,5,Mechanical Engineering,1342.00,,
+Crysta,Senger,70701452701,188,85.9,crysta.senger@example.com,STUDENT,,,,Eastern Koelpin,4,Law,2534.00,,
+Charlyn,Mayer,75819060248,160,66.9,charlyn.mayer@example.com,RETIREE,,,,,,,,2694.26,47
+Sol,Langworth,31178890437,165,51.2,sol.langworth@example.com,STUDENT,,,,East Paucek,3,Mechanical Engineering,2973.00,,
+Marcel,Tremblay,07982343942,178,84.6,marcel.tremblay@example.com,EMPLOYEE,2018-08-20,Officer,69560.12,,,,,,
+Xavier,Swaniawski,84972255742,154,57.1,xavier.swaniawski@example.com,STUDENT,,,,Krajcik Academy,2,Law,2150.00,,
+Cecil,Klein,55050621602,173,61.5,cecil.klein@example.com,RETIREE,,,,,,,,2171.15,10
+Antione,Dach,76003525198,174,98.4,antione.dach@example.com,STUDENT,,,,The Montana College,2,Law,611.00,,
+Austin,Harvey,36480168930,184,51.2,austin.harvey@example.com,EMPLOYEE,2006-06-17,Manager,75832.74,,,,,,
+Jesse,Lindgren,21537606005,164,65.0,jesse.lindgren@example.com,RETIREE,,,,,,,,1548.97,21
+Ja,Thiel,18759179601,159,51.5,ja.thiel@example.com,EMPLOYEE,2003-04-18,Officer,58213.63,,,,,,
+Tyrell,Bruen,84511570313,171,90.5,tyrell.bruen@example.com,EMPLOYEE,1998-08-22,Technician,91849.58,,,,,,
+Gia,Greenfelder,41632755580,151,87.5,gia.greenfelder@example.com,STUDENT,,,,South Hahn,2,Law,3772.00,,
+Jessie,Schowalter,41043148641,176,68.4,jessie.schowalter@example.com,EMPLOYEE,2001-12-02,Analyst,80849.38,,,,,,
+Pablo,Wyman,34326252802,161,93.2,pablo.wyman@example.com,RETIREE,,,,,,,,2239.18,24
+Gerry,Gusikowski,96028008949,150,98.7,gerry.gusikowski@example.com,EMPLOYEE,1997-04-27,Manager,91854.94,,,,,,
+Winfred,Wuckert,81681572981,183,66.1,winfred.wuckert@example.com,STUDENT,,,,Southern Herzog,4,Computer Science,3075.00,,
+Damon,Hansen,54077674027,155,65.4,damon.hansen@example.com,RETIREE,,,,,,,,1487.13,14
+Oren,Pouros,65793135837,158,59.7,oren.pouros@example.com,EMPLOYEE,1997-02-17,Consultant,93530.84,,,,,,
+Debbie,Luettgen,04859676598,151,78.2,debbie.luettgen@example.com,STUDENT,,,,West Illinois Academy,2,Biology,364.00,,
+Shannon,Klocko,34032601785,189,71.4,shannon.klocko@example.com,EMPLOYEE,2021-05-27,Facilitator,89715.85,,,,,,
+Ivy,Spencer,06525224149,167,77.7,ivy.spencer@example.com,RETIREE,,,,,,,,1665.88,39
+Emilio,Kuhic,43784436146,166,93.8,emilio.kuhic@example.com,EMPLOYEE,2001-09-09,Representative,75508.39,,,,,,
+Marci,Satterfield,60672689363,189,69.7,marci.satterfield@example.com,STUDENT,,,,Western Virginia University,2,Computer Science,3454.00,,
+Minta,Anderson,34624346242,151,58.6,minta.anderson@example.com,RETIREE,,,,,,,,1060.60,25
+Broderick,Kemmer,07203815597,177,99.3,broderick.kemmer@example.com,RETIREE,,,,,,,,2764.94,25
+Ingeborg,Schultz,67486631531,171,87.6,ingeborg.schultz@example.com,STUDENT,,,,The Kansas Institute,4,Mechanical Engineering,3780.00,,
+Merlyn,Terry,41738762457,182,63.8,merlyn.terry@example.com,RETIREE,,,,,,,,2743.07,22
+Jeannie,Reilly,64438882542,170,51.0,jeannie.reilly@example.com,EMPLOYEE,1995-11-06,Consultant,71830.70,,,,,,
+Mattie,Hudson,65027842934,156,95.5,mattie.hudson@example.com,RETIREE,,,,,,,,2912.23,47
+Shawn,MacGyver,05275401814,177,58.7,shawn.macgyver@example.com,STUDENT,,,,Northern Stoltenberg Academy,1,Law,2948.00,,
+Sang,Huel,08573912485,162,89.3,sang.huel@example.com,STUDENT,,,,Northern Rhode Island Institute,1,Law,962.00,,
+Rickie,Leannon,15184746128,170,86.2,rickie.leannon@example.com,RETIREE,,,,,,,,1373.20,23
+Aron,Balistreri,07520105262,189,51.4,aron.balistreri@example.com,EMPLOYEE,2017-05-01,Engineer,54499.71,,,,,,
+Aletha,Hagenes,97613039227,174,81.7,aletha.hagenes@example.com,STUDENT,,,,Southern Jerde Academy,3,Computer Science,1723.00,,
+Carlos,McKenzie,40572498795,157,97.8,carlos.mckenzie@example.com,STUDENT,,,,Dooley University,2,Biology,3715.00,,
+Francesca,Bauch,82822615992,155,87.4,francesca.bauch@example.com,EMPLOYEE,2006-02-07,Engineer,67670.94,,,,,,
+Sharice,Kertzmann,02775014043,159,99.5,sharice.kertzmann@example.com,EMPLOYEE,2004-09-23,Architect,69790.33,,,,,,
+Alexander,McGlynn,84307011269,161,70.9,alexander.mcglynn@example.com,EMPLOYEE,2008-06-15,Administrator,88133.98,,,,,,
+Lowell,Emard,68233024819,166,59.4,lowell.emard@example.com,STUDENT,,,,The Kansas College,2,Computer Science,2137.00,,
+Freda,Kemmer,19020251511,163,89.0,freda.kemmer@example.com,STUDENT,,,,North Windler,1,Computer Science,2295.00,,
+Lewis,Watsica,58119360525,155,64.1,lewis.watsica@example.com,RETIREE,,,,,,,,1244.99,25
+Florencio,Lowe,37583718184,187,75.0,florencio.lowe@example.com,EMPLOYEE,2003-07-05,Consultant,58702.19,,,,,,
+Mirta,O'Kon,94549605826,156,52.5,mirta.o'kon@example.com,EMPLOYEE,2011-06-25,Liaison,92899.38,,,,,,
+Carl,Kulas,28728753940,159,80.6,carl.kulas@example.com,RETIREE,,,,,,,,2008.93,40
+Mattie,Satterfield,13332687676,172,91.5,mattie.satterfield@example.com,STUDENT,,,,Northern Washington Institute,4,Law,33.00,,
+Wade,Kihn,16729277871,150,74.9,wade.kihn@example.com,STUDENT,,,,West Walker Academy,5,Biology,1922.00,,
+Ivette,Cremin,53081510179,171,94.6,ivette.cremin@example.com,EMPLOYEE,1996-01-23,Administrator,63545.96,,,,,,
+Katlyn,Veum,99711818537,187,72.8,katlyn.veum@example.com,RETIREE,,,,,,,,2468.97,45
+Maximo,Walker,60109829853,170,76.4,maximo.walker@example.com,STUDENT,,,,Western Feeney,1,Computer Science,1197.00,,
+Jamey,Luettgen,47188759106,177,78.9,jamey.luettgen@example.com,RETIREE,,,,,,,,1439.73,40
+Tristan,Abernathy,87472542700,161,92.1,tristan.abernathy@example.com,STUDENT,,,,East Gerhold Institute,4,Law,2216.00,,
+Leonard,Upton,08518366003,164,91.6,leonard.upton@example.com,RETIREE,,,,,,,,2504.59,29
+Theo,Veum,90725108973,164,73.8,theo.veum@example.com,STUDENT,,,,Langworth Institute,4,Law,837.00,,
+Naomi,Feeney,35032574766,157,72.1,naomi.feeney@example.com,EMPLOYEE,2011-04-21,Administrator,74554.75,,,,,,
+Sammie,West,45062312765,178,89.8,sammie.west@example.com,STUDENT,,,,Northern Cummerata,1,Computer Science,1175.00,,
+Terina,Reynolds,00885586615,183,77.1,terina.reynolds@example.com,STUDENT,,,,The Macejkovic College,1,Law,2702.00,,
+Dean,Macejkovic,06840626832,174,61.6,dean.macejkovic@example.com,EMPLOYEE,2023-07-15,Planner,90253.82,,,,,,
+Kylee,Wyman,68485567134,181,90.9,kylee.wyman@example.com,EMPLOYEE,2021-05-06,Associate,79457.52,,,,,,
+Jade,Hayes,01385847517,163,90.1,jade.hayes@example.com,EMPLOYEE,2009-05-26,Strategist,97913.19,,,,,,
+Erline,Walter,27331031179,179,51.9,erline.walter@example.com,STUDENT,,,,Murray Institute,1,Biology,685.00,,
+Gretta,Weissnat,29956445667,172,77.5,gretta.weissnat@example.com,STUDENT,,,,South Alaska Academy,1,Law,3736.00,,
+Irwin,Muller,27854621426,153,54.8,irwin.muller@example.com,STUDENT,,,,West Jacobs,1,Mechanical Engineering,3675.00,,
+Bryon,Stroman,06673258070,165,87.4,bryon.stroman@example.com,EMPLOYEE,2002-11-28,Facilitator,74443.90,,,,,,
+Wiley,Bergstrom,63777110082,155,62.8,wiley.bergstrom@example.com,STUDENT,,,,Eastern Dare University,5,Computer Science,3920.00,,
+Cathy,Carroll,11054077717,164,96.0,cathy.carroll@example.com,EMPLOYEE,1998-01-20,Developer,62105.40,,,,,,
+Rocco,Schinner,33337892976,156,63.8,rocco.schinner@example.com,STUDENT,,,,East Oregon University,1,Law,2782.00,,
+Louis,Cummings,66177127803,158,60.4,louis.cummings@example.com,STUDENT,,,,Southern Ziemann Institute,4,Mechanical Engineering,962.00,,
+Lovie,Fritsch,74656282480,187,63.6,lovie.fritsch@example.com,STUDENT,,,,South Wisconsin College,4,Computer Science,2103.00,,
+Lavonda,Kassulke,75519679976,185,57.9,lavonda.kassulke@example.com,EMPLOYEE,2004-10-12,Designer,84995.30,,,,,,
+Shaquita,Kutch,40262315033,175,75.4,shaquita.kutch@example.com,EMPLOYEE,2022-09-11,Developer,92450.13,,,,,,
+Kathern,Johnston,44313728917,159,71.1,kathern.johnston@example.com,RETIREE,,,,,,,,2186.58,23
+Sol,Kutch,76416152443,178,54.7,sol.kutch@example.com,RETIREE,,,,,,,,2550.31,10
+Nolan,Reichert,64019913132,184,53.6,nolan.reichert@example.com,EMPLOYEE,2012-04-11,Producer,77076.79,,,,,,
+Cassandra,Ernser,63538082824,173,84.2,cassandra.ernser@example.com,EMPLOYEE,2011-09-22,Supervisor,70788.83,,,,,,
+Iva,Walsh,02696843455,182,56.7,iva.walsh@example.com,EMPLOYEE,2023-11-20,Analyst,51386.68,,,,,,
+Arlen,O'Conner,31364365415,174,94.4,arlen.o'conner@example.com,STUDENT,,,,Murphy College,1,Mechanical Engineering,951.00,,
+Gigi,Nitzsche,69572449006,175,94.5,gigi.nitzsche@example.com,EMPLOYEE,2003-03-10,Associate,93273.14,,,,,,
+Angelo,Ruecker,73546900185,150,56.2,angelo.ruecker@example.com,RETIREE,,,,,,,,1031.50,14
+Bernardo,Sporer,11503134248,164,91.6,bernardo.sporer@example.com,RETIREE,,,,,,,,1205.55,12
+Krista,Waters,76303646682,181,77.6,krista.waters@example.com,STUDENT,,,,North South Carolina Academy,3,Biology,3856.00,,
+Zane,Marquardt,62336866576,179,79.5,zane.marquardt@example.com,EMPLOYEE,2005-07-11,Executive,55632.73,,,,,,
+Jae,Lynch,55047979123,187,75.5,jae.lynch@example.com,RETIREE,,,,,,,,1555.25,45
+Ward,Johns,96188559227,160,96.5,ward.johns@example.com,STUDENT,,,,Western Heaney College,5,Computer Science,2121.00,,
+Leif,Mills,02191472545,187,59.6,leif.mills@example.com,STUDENT,,,,Southern Iowa College,2,Computer Science,3058.00,,
+Kaley,Muller,01617545658,187,72.7,kaley.muller@example.com,RETIREE,,,,,,,,2266.60,47
+Doug,Ullrich,70412317327,158,70.1,doug.ullrich@example.com,STUDENT,,,,Walsh Institute,4,Mechanical Engineering,3029.00,,
+Augusta,Russel,49514225887,168,93.6,augusta.russel@example.com,STUDENT,,,,Eastern Marvin,1,Computer Science,3121.00,,
+Altha,Kub,01045828450,161,57.9,altha.kub@example.com,EMPLOYEE,2004-04-01,Representative,87018.45,,,,,,
+Elwood,Ernser,22289272976,163,96.4,elwood.ernser@example.com,STUDENT,,,,Northern Oregon University,2,Biology,1638.00,,
+Carlita,Langosh,81462262273,178,86.0,carlita.langosh@example.com,STUDENT,,,,Southern Wintheiser,2,Computer Science,2509.00,,
+Kylee,Kuhn,36454382905,161,76.3,kylee.kuhn@example.com,STUDENT,,,,Ruecker Academy,2,Mechanical Engineering,2956.00,,
+Dudley,Wilderman,27013457109,173,60.2,dudley.wilderman@example.com,STUDENT,,,,Quigley University,4,Law,2166.00,,
+Walter,Mayert,51521830312,187,98.6,walter.mayert@example.com,STUDENT,,,,West Jerde Academy,2,Computer Science,905.00,,
+Erma,Spinka,36624755926,171,79.8,erma.spinka@example.com,RETIREE,,,,,,,,2981.07,15
+Jama,Bergstrom,01177321583,173,97.5,jama.bergstrom@example.com,STUDENT,,,,West Ritchie College,5,Biology,3345.00,,
+Coleman,Hoppe,05259970816,184,89.5,coleman.hoppe@example.com,STUDENT,,,,Southern Texas University,2,Computer Science,497.00,,
+Darlene,Stark,96694188437,158,56.3,darlene.stark@example.com,RETIREE,,,,,,,,1264.43,12
+Cleveland,Marvin,74193475948,176,82.8,cleveland.marvin@example.com,EMPLOYEE,2005-06-20,Liaison,62821.00,,,,,,
+Hilaria,Gleason,41125722625,157,85.0,hilaria.gleason@example.com,STUDENT,,,,Ortiz University,1,Law,2235.00,,
+Sang,Turcotte,52664892814,166,72.7,sang.turcotte@example.com,RETIREE,,,,,,,,1537.09,31
+Lana,Schroeder,69973087120,170,93.2,lana.schroeder@example.com,EMPLOYEE,2004-08-22,Coordinator,78048.13,,,,,,
+Dion,McKenzie,17366612825,160,82.6,dion.mckenzie@example.com,STUDENT,,,,The Bogisich College,2,Mechanical Engineering,355.00,,
+Latanya,Okuneva,00032941566,160,83.8,latanya.okuneva@example.com,STUDENT,,,,West Heidenreich University,2,Computer Science,3975.00,,
+Christian,Bartell,30582024575,160,74.9,christian.bartell@example.com,STUDENT,,,,West Nevada Academy,1,Law,3012.00,,
+Brett,Murazik,30560105080,155,67.2,brett.murazik@example.com,STUDENT,,,,Southern Orn,2,Biology,888.00,,
+Kasie,Kozey,16333202032,161,79.5,kasie.kozey@example.com,EMPLOYEE,2020-03-28,Associate,83362.34,,,,,,
+Verlie,Mraz,03244151435,179,77.6,verlie.mraz@example.com,STUDENT,,,,Western Stoltenberg,1,Law,3585.00,,
+Krystal,Rath,65011561012,175,56.8,krystal.rath@example.com,EMPLOYEE,2000-04-15,Coordinator,65395.01,,,,,,
+Zenobia,Rath,15011465372,179,79.8,zenobia.rath@example.com,STUDENT,,,,East Schaden,1,Computer Science,710.00,,
+Annabelle,Homenick,41685626116,168,70.1,annabelle.homenick@example.com,EMPLOYEE,2019-08-25,Coordinator,92335.38,,,,,,
+Mitch,Runolfsson,68720605134,169,51.7,mitch.runolfsson@example.com,RETIREE,,,,,,,,2167.77,48
+Ethelyn,Ruecker,23854799876,176,72.8,ethelyn.ruecker@example.com,RETIREE,,,,,,,,2898.34,35
+Jessie,Larson,22131546889,155,94.1,jessie.larson@example.com,RETIREE,,,,,,,,1539.09,47
+Reynaldo,Trantow,81515011712,187,85.5,reynaldo.trantow@example.com,STUDENT,,,,Western Carter,4,Law,2056.00,,
+Shemeka,Adams,34358708393,188,92.6,shemeka.adams@example.com,RETIREE,,,,,,,,1694.24,16
+Dorie,Brown,97868420675,180,63.9,dorie.brown@example.com,RETIREE,,,,,,,,1024.07,20
+Nicky,Jacobson,00386515152,168,73.7,nicky.jacobson@example.com,STUDENT,,,,Southern Alaska Academy,5,Biology,147.00,,
+Marlin,Homenick,04410834262,150,65.9,marlin.homenick@example.com,EMPLOYEE,1999-07-01,Executive,76122.52,,,,,,
+Ronny,Okuneva,86463532889,165,87.3,ronny.okuneva@example.com,STUDENT,,,,Williamson University,4,Computer Science,2856.00,,
+Major,Wilkinson,28877015766,169,93.8,major.wilkinson@example.com,RETIREE,,,,,,,,1768.71,50
+Gearldine,Lindgren,77883047466,173,94.3,gearldine.lindgren@example.com,RETIREE,,,,,,,,2515.00,29
+Frederic,Will,56135226336,175,89.3,frederic.will@example.com,STUDENT,,,,West California College,3,Law,1846.00,,
+Patricia,Hirthe,57096803843,174,91.1,patricia.hirthe@example.com,EMPLOYEE,2013-03-05,Liaison,70397.13,,,,,,
+Catharine,Zemlak,65407071540,178,85.5,catharine.zemlak@example.com,RETIREE,,,,,,,,1399.03,30
+Bert,Gibson,61907950381,175,82.0,bert.gibson@example.com,STUDENT,,,,Western Weber Academy,3,Biology,1192.00,,
+Haywood,Barton,58694981015,164,82.3,haywood.barton@example.com,STUDENT,,,,Glover Institute,1,Law,991.00,,
+Argentina,Ortiz,16483537563,170,67.8,argentina.ortiz@example.com,EMPLOYEE,2000-12-15,Specialist,57201.23,,,,,,
+Hermelinda,Schultz,91506894571,166,77.4,hermelinda.schultz@example.com,EMPLOYEE,2008-06-09,Consultant,92888.25,,,,,,
+Jamie,Orn,14265747159,186,84.1,jamie.orn@example.com,EMPLOYEE,2019-05-01,Supervisor,60148.75,,,,,,
+Miguelina,Predovic,59076886847,163,96.4,miguelina.predovic@example.com,STUDENT,,,,North Connelly,1,Mechanical Engineering,2538.00,,
+Antonietta,Schaden,23123162783,153,73.7,antonietta.schaden@example.com,RETIREE,,,,,,,,1812.56,24
+Mellie,Bartell,59502735034,178,76.8,mellie.bartell@example.com,EMPLOYEE,2003-03-13,Agent,71926.09,,,,,,
+Vernetta,Morissette,15624152257,176,76.9,vernetta.morissette@example.com,RETIREE,,,,,,,,2491.79,21
+Rubin,Waelchi,28383436320,182,54.2,rubin.waelchi@example.com,RETIREE,,,,,,,,1213.50,35
+Delicia,Wunsch,50644790386,158,98.4,delicia.wunsch@example.com,EMPLOYEE,2024-12-25,Supervisor,50930.21,,,,,,
+Rebekah,Emmerich,16917264822,152,54.7,rebekah.emmerich@example.com,STUDENT,,,,Kassulke Institute,1,Law,1987.00,,
+Natasha,Bartoletti,38363087371,164,50.5,natasha.bartoletti@example.com,STUDENT,,,,Northern Spencer,1,Mechanical Engineering,1433.00,,
+Deana,Watsica,12832954476,186,93.0,deana.watsica@example.com,STUDENT,,,,West Bahringer College,3,Computer Science,2240.00,,
+Antonia,Kihn,41306412750,161,99.9,antonia.kihn@example.com,EMPLOYEE,2019-01-28,Developer,54949.14,,,,,,
+Arden,Tromp,84149425611,158,71.7,arden.tromp@example.com,RETIREE,,,,,,,,2885.92,50
+Shayne,Witting,78142532122,162,98.2,shayne.witting@example.com,RETIREE,,,,,,,,1835.41,43
+Ciera,Pfeffer,87771412396,178,56.3,ciera.pfeffer@example.com,STUDENT,,,,East Emard College,1,Biology,3027.00,,
+Danilo,Bashirian,57410448757,163,92.3,danilo.bashirian@example.com,EMPLOYEE,2017-06-12,Consultant,63515.91,,,,,,
+Lorie,Jacobson,00726035088,167,79.6,lorie.jacobson@example.com,RETIREE,,,,,,,,1038.14,30
+Fairy,Wehner,26246448127,155,88.3,fairy.wehner@example.com,STUDENT,,,,East Purdy,2,Computer Science,518.00,,
+Cindi,Bauch,52883141725,166,93.6,cindi.bauch@example.com,RETIREE,,,,,,,,2174.36,39
+Santiago,Larson,58480373237,164,94.7,santiago.larson@example.com,RETIREE,,,,,,,,1488.79,45
+Aretha,Roob,44342827342,182,95.9,aretha.roob@example.com,RETIREE,,,,,,,,2916.44,29
+Glen,Powlowski,57031647028,167,64.2,glen.powlowski@example.com,RETIREE,,,,,,,,1781.41,38
+Yolande,O'Reilly,01452766648,172,56.0,yolande.o'reilly@example.com,EMPLOYEE,2003-08-27,Analyst,73678.74,,,,,,
+Merrill,Grady,05840568923,177,59.8,merrill.grady@example.com,STUDENT,,,,The Krajcik,3,Biology,2769.00,,
+Sherwood,Jast,74131961461,181,73.6,sherwood.jast@example.com,RETIREE,,,,,,,,1184.13,39
+Buena,Hessel,73506108429,184,96.9,buena.hessel@example.com,RETIREE,,,,,,,,1813.64,16
+Eladia,Jacobi,28054187944,182,71.4,eladia.jacobi@example.com,EMPLOYEE,2019-01-25,Executive,66211.12,,,,,,
+Fidelia,Kshlerin,67553870541,186,74.3,fidelia.kshlerin@example.com,STUDENT,,,,Eastern Massachusetts University,1,Mechanical Engineering,718.00,,
+Mikel,Goldner,28839352653,160,96.4,mikel.goldner@example.com,RETIREE,,,,,,,,2854.47,24
+Avery,Walter,97637497384,175,70.8,avery.walter@example.com,RETIREE,,,,,,,,2776.97,38
+Jenae,Ebert,54436165514,170,63.1,jenae.ebert@example.com,RETIREE,,,,,,,,2678.65,11
+Ellsworth,Stracke,08770700278,185,79.6,ellsworth.stracke@example.com,STUDENT,,,,Eastern Washington College,5,Computer Science,2932.00,,
+Tonisha,Little,38436150463,168,83.1,tonisha.little@example.com,STUDENT,,,,Western Michigan Institute,3,Computer Science,1670.00,,
+Candra,Spencer,92114271363,164,62.1,candra.spencer@example.com,STUDENT,,,,West Oklahoma College,2,Biology,65.00,,
+Heather,Daugherty,00319184840,166,91.6,heather.daugherty@example.com,STUDENT,,,,Southern Ruecker,4,Computer Science,2474.00,,
+Rachele,Mueller,17665635162,159,88.0,rachele.mueller@example.com,EMPLOYEE,2000-11-21,Producer,99506.41,,,,,,
+Elida,Reichert,00175582635,181,66.0,elida.reichert@example.com,STUDENT,,,,East Huels,2,Mechanical Engineering,3326.00,,
+John,Cummerata,08808110215,151,94.4,john.cummerata@example.com,STUDENT,,,,Southern Rohan Institute,5,Law,2441.00,,
+Hosea,Macejkovic,14480077737,164,63.2,hosea.macejkovic@example.com,EMPLOYEE,2014-12-08,Officer,72474.56,,,,,,
+Joycelyn,Bode,36014334751,150,90.0,joycelyn.bode@example.com,RETIREE,,,,,,,,1055.28,13
+Derick,Romaguera,51260641829,172,80.4,derick.romaguera@example.com,STUDENT,,,,East Bode Academy,3,Computer Science,2639.00,,
+Tawna,Ritchie,28548502047,150,58.6,tawna.ritchie@example.com,STUDENT,,,,North Rohan Institute,2,Computer Science,2171.00,,
+Kent,Lowe,57530340344,175,89.2,kent.lowe@example.com,RETIREE,,,,,,,,1018.77,21
+Arvilla,Pagac,04267577202,180,62.5,arvilla.pagac@example.com,RETIREE,,,,,,,,1234.22,37
+Saundra,Wolf,74574641368,186,60.1,saundra.wolf@example.com,EMPLOYEE,1997-12-03,Agent,82723.12,,,,,,
+Kasey,Koepp,35777383038,177,72.4,kasey.koepp@example.com,STUDENT,,,,North Tromp,3,Computer Science,145.00,,
+Marcelino,Hyatt,58496892642,162,96.6,marcelino.hyatt@example.com,RETIREE,,,,,,,,2245.49,50
+Candy,Ritchie,15320234446,184,84.6,candy.ritchie@example.com,STUDENT,,,,West Mayer,4,Mechanical Engineering,385.00,,
+Gena,Littel,57408024699,177,60.0,gena.littel@example.com,EMPLOYEE,2018-01-14,Director,57840.61,,,,,,
+Rocio,Tillman,23047292461,167,70.9,rocio.tillman@example.com,EMPLOYEE,2002-09-04,Facilitator,91091.03,,,,,,
+Hong,Farrell,88007346049,164,98.5,hong.farrell@example.com,STUDENT,,,,Northern Georgia Institute,3,Computer Science,3971.00,,
+Edmund,Stracke,16075464732,177,75.5,edmund.stracke@example.com,RETIREE,,,,,,,,2024.58,26
+Idella,Trantow,30585711687,151,96.1,idella.trantow@example.com,STUDENT,,,,South Purdy,1,Mechanical Engineering,2719.00,,
+Joline,Adams,72261036284,158,69.8,joline.adams@example.com,STUDENT,,,,Southern Kansas College,2,Computer Science,360.00,,
+Nola,Bartoletti,10586423265,155,59.6,nola.bartoletti@example.com,STUDENT,,,,Southern Cormier Academy,4,Computer Science,1471.00,,
+Kristie,Pagac,28166058563,185,67.5,kristie.pagac@example.com,RETIREE,,,,,,,,1803.22,29
+Blake,Mills,20080067494,156,51.2,blake.mills@example.com,RETIREE,,,,,,,,2324.84,33
+Noe,Stroman,53082977337,162,96.1,noe.stroman@example.com,STUDENT,,,,Von College,1,Computer Science,1600.00,,
+Star,Kozey,43183574312,170,74.4,star.kozey@example.com,EMPLOYEE,1999-04-22,Technician,77591.26,,,,,,
+Adriane,Quigley,06538477257,178,75.3,adriane.quigley@example.com,STUDENT,,,,West Parker Academy,4,Mechanical Engineering,2533.00,,
+Karrie,Senger,31922737180,161,94.4,karrie.senger@example.com,STUDENT,,,,Eastern Quigley,4,Law,890.00,,
+Claudette,Rice,84587977265,180,89.6,claudette.rice@example.com,STUDENT,,,,Waters Institute,1,Mechanical Engineering,1546.00,,
+Gayle,Weissnat,34093480492,169,89.5,gayle.weissnat@example.com,EMPLOYEE,1996-01-17,Analyst,91079.24,,,,,,
+Riley,Wisozk,07588615772,173,95.7,riley.wisozk@example.com,RETIREE,,,,,,,,2129.33,24
+Rick,Gaylord,80109072189,185,54.6,rick.gaylord@example.com,RETIREE,,,,,,,,2043.20,44
+Grover,Keeling,38568084177,153,82.7,grover.keeling@example.com,STUDENT,,,,Western Nolan College,1,Computer Science,2707.00,,
+Hollis,Mann,18752980155,168,81.7,hollis.mann@example.com,EMPLOYEE,2010-02-20,Facilitator,74591.44,,,,,,
+Domitila,Hettinger,27345957412,179,95.4,domitila.hettinger@example.com,EMPLOYEE,2012-12-03,Officer,74476.26,,,,,,
+Charmain,Beier,07486051313,186,95.2,charmain.beier@example.com,STUDENT,,,,Northern Swaniawski,3,Mechanical Engineering,3244.00,,
+Shannon,Morar,22446323600,151,82.9,shannon.morar@example.com,EMPLOYEE,2008-07-26,Executive,63171.70,,,,,,
+Felica,Gerlach,92960198055,172,61.2,felica.gerlach@example.com,STUDENT,,,,The Massachusetts College,4,Biology,974.00,,
+Parker,Bahringer,67715521516,183,86.8,parker.bahringer@example.com,EMPLOYEE,2006-02-01,Specialist,51497.00,,,,,,
+Berniece,Skiles,30180697416,176,73.4,berniece.skiles@example.com,STUDENT,,,,Northern White Institute,1,Computer Science,2432.00,,
+Hipolito,Rutherford,83335509181,180,91.2,hipolito.rutherford@example.com,RETIREE,,,,,,,,1306.73,16
+Shad,Gleason,86613099653,168,91.2,shad.gleason@example.com,STUDENT,,,,Eastern Rippin Institute,5,Biology,1372.00,,
+Taneka,Jerde,81029404742,186,77.9,taneka.jerde@example.com,RETIREE,,,,,,,,2454.62,48
+Nickie,Schinner,66418715612,161,55.1,nickie.schinner@example.com,EMPLOYEE,2009-08-19,Director,54632.01,,,,,,
+Kenny,Bruen,25080455938,160,74.8,kenny.bruen@example.com,RETIREE,,,,,,,,1619.46,34
+Alice,Wilkinson,46053123836,176,74.7,alice.wilkinson@example.com,RETIREE,,,,,,,,1436.84,20
+Oretha,Howe,01086618027,165,83.4,oretha.howe@example.com,STUDENT,,,,O'Connell Academy,2,Computer Science,2041.00,,
+Bryan,Wiza,77423641686,184,72.5,bryan.wiza@example.com,EMPLOYEE,2005-02-19,Analyst,58524.96,,,,,,
+Galen,Bergnaum,62070382137,170,83.8,galen.bergnaum@example.com,EMPLOYEE,2017-10-27,Strategist,89895.34,,,,,,
+Trinh,Weimann,27816243957,173,88.5,trinh.weimann@example.com,RETIREE,,,,,,,,2421.21,31
+Charley,Reilly,02573062461,151,56.1,charley.reilly@example.com,EMPLOYEE,2003-09-16,Engineer,56387.85,,,,,,
+Genevieve,Paucek,36817280185,151,91.8,genevieve.paucek@example.com,STUDENT,,,,Western Alabama Academy,2,Law,3705.00,,
+Claris,Kovacek,80639050766,166,56.5,claris.kovacek@example.com,STUDENT,,,,The Nebraska University,1,Computer Science,2697.00,,
+Yuette,O'Keefe,26631584227,186,63.0,yuette.o'keefe@example.com,STUDENT,,,,West Labadie,3,Biology,2351.00,,
+Augustine,Krajcik,19235762387,159,82.2,augustine.krajcik@example.com,EMPLOYEE,2016-07-13,Orchestrator,87282.54,,,,,,
+Jamie,Davis,71180488306,153,59.4,jamie.davis@example.com,EMPLOYEE,1995-11-16,Executive,72581.25,,,,,,
+Rosaline,Abshire,72305402167,178,97.5,rosaline.abshire@example.com,EMPLOYEE,2010-01-09,Officer,85091.87,,,,,,
+Alisa,Jakubowski,75563478371,183,58.5,alisa.jakubowski@example.com,RETIREE,,,,,,,,1824.50,29
+Noah,Christiansen,21980873356,158,73.1,noah.christiansen@example.com,STUDENT,,,,North Wisoky,2,Biology,3378.00,,
+Eloise,Hyatt,65424902607,152,73.1,eloise.hyatt@example.com,STUDENT,,,,Wolf Academy,1,Mechanical Engineering,2801.00,,
+Denny,Jerde,10498497523,167,68.9,denny.jerde@example.com,RETIREE,,,,,,,,1492.96,25
+Marquis,Emmerich,25701728652,159,77.5,marquis.emmerich@example.com,RETIREE,,,,,,,,1144.82,17
+Lonny,Crist,00106127521,151,51.5,lonny.crist@example.com,STUDENT,,,,Southern Oklahoma College,3,Computer Science,2230.00,,
+Oretha,Walter,58218479213,159,86.2,oretha.walter@example.com,EMPLOYEE,2009-10-20,Assistant,74948.02,,,,,,
+Emelia,Hudson,38326335840,160,76.5,emelia.hudson@example.com,STUDENT,,,,West Goyette,1,Computer Science,958.00,,
+Lakesha,Pagac,14077781201,175,89.1,lakesha.pagac@example.com,STUDENT,,,,Cole University,3,Computer Science,2188.00,,
+Solomon,Botsford,60611426603,188,56.6,solomon.botsford@example.com,STUDENT,,,,Heathcote Institute,5,Biology,2392.00,,
+Christina,Braun,57683722066,175,78.4,christina.braun@example.com,EMPLOYEE,1995-12-18,Analyst,62499.03,,,,,,
+Terrie,Ward,28338147286,164,62.2,terrie.ward@example.com,STUDENT,,,,Western Indiana Academy,4,Computer Science,3873.00,,
+Daniela,Yost,24358858817,163,94.1,daniela.yost@example.com,STUDENT,,,,Northern Jakubowski College,2,Law,1338.00,,
+Devona,Zboncak,21052564427,179,51.8,devona.zboncak@example.com,STUDENT,,,,North Maine College,3,Mechanical Engineering,3249.00,,
+Hayden,Weissnat,15404233075,155,71.4,hayden.weissnat@example.com,RETIREE,,,,,,,,2130.08,37
+Bruce,Padberg,25345923466,189,54.8,bruce.padberg@example.com,EMPLOYEE,2021-07-01,Orchestrator,70173.65,,,,,,
+Rayford,Mann,00600373752,152,61.2,rayford.mann@example.com,RETIREE,,,,,,,,1816.86,39
+Shane,Marks,33886566574,151,59.0,shane.marks@example.com,STUDENT,,,,North Kentucky Academy,1,Law,441.00,,
+Cassondra,Koepp,30537508533,166,57.7,cassondra.koepp@example.com,STUDENT,,,,North Zemlak,2,Biology,3770.00,,
+Carlos,Parker,14017731133,166,50.8,carlos.parker@example.com,STUDENT,,,,East Hane College,2,Computer Science,227.00,,
+Felton,Cremin,62646701182,165,90.0,felton.cremin@example.com,RETIREE,,,,,,,,1337.84,40
+Alexis,Ebert,04346313410,157,69.1,alexis.ebert@example.com,STUDENT,,,,Wolf Academy,3,Law,1769.00,,
+Frank,VonRueden,60381954173,156,83.1,frank.vonrueden@example.com,EMPLOYEE,2022-07-02,Assistant,84882.44,,,,,,
+Jesus,Morar,23576872617,155,86.6,jesus.morar@example.com,STUDENT,,,,The Mraz College,1,Law,879.00,,
+Trey,Collier,44705210161,176,90.7,trey.collier@example.com,STUDENT,,,,The Colorado College,3,Mechanical Engineering,1720.00,,
+Winfred,Simonis,77717233013,167,69.3,winfred.simonis@example.com,RETIREE,,,,,,,,2406.22,25
+Ira,Corkery,92676697582,182,76.0,ira.corkery@example.com,RETIREE,,,,,,,,2153.90,20
+Francis,Predovic,61339040158,172,75.1,francis.predovic@example.com,EMPLOYEE,2006-04-02,Producer,59291.68,,,,,,
+Janine,Leffler,29248155887,161,54.6,janine.leffler@example.com,RETIREE,,,,,,,,2862.87,48
+Waneta,Williamson,48603478575,162,52.1,waneta.williamson@example.com,RETIREE,,,,,,,,2230.53,43
+Clint,Berge,23492547117,176,66.8,clint.berge@example.com,STUDENT,,,,Western Maryland Academy,1,Mechanical Engineering,1802.00,,
+Foster,Mosciski,47214801433,174,58.6,foster.mosciski@example.com,EMPLOYEE,2013-07-28,Planner,90696.38,,,,,,
+Mavis,O'Keefe,86096922544,180,67.9,mavis.o'keefe@example.com,EMPLOYEE,1999-06-05,Analyst,96489.27,,,,,,
+Ira,Mertz,06036066017,161,79.8,ira.mertz@example.com,EMPLOYEE,2002-09-11,Agent,86357.91,,,,,,
+Alisha,Frami,60994362064,169,92.8,alisha.frami@example.com,STUDENT,,,,Kozey Academy,2,Mechanical Engineering,1850.00,,
+Xavier,Bayer,00306709382,178,93.6,xavier.bayer@example.com,STUDENT,,,,West Hoeger Academy,4,Law,3463.00,,
+Harriett,Towne,03043841642,189,57.0,harriett.towne@example.com,RETIREE,,,,,,,,2437.77,46
+Hwa,Jacobi,67201374440,158,97.1,hwa.jacobi@example.com,STUDENT,,,,Kohler Institute,3,Biology,2974.00,,
+Maximina,Considine,91178824827,155,80.0,maximina.considine@example.com,RETIREE,,,,,,,,2849.20,40
+Kermit,Mertz,34453647968,154,86.7,kermit.mertz@example.com,EMPLOYEE,2016-09-11,Representative,87141.99,,,,,,
+Shad,Abernathy,68004493078,157,55.5,shad.abernathy@example.com,EMPLOYEE,2011-04-17,Designer,98882.82,,,,,,
+Charlie,Moore,62421571779,170,78.8,charlie.moore@example.com,EMPLOYEE,2022-08-17,Supervisor,91213.87,,,,,,
+Quintin,Bogan,48616468258,150,53.7,quintin.bogan@example.com,RETIREE,,,,,,,,2309.22,42

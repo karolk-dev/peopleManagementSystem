@@ -1,0 +1,64 @@
+{
+  "id": "demo",
+  "realm": "demo",
+  "displayName": "Demo Realm",
+  "enabled": true,
+  "sslRequired": "external",
+  "registrationAllowed": false,
+  "resetPasswordAllowed": false,
+  "editUsernameAllowed": false,
+  "bruteForceProtected": true,
+  "roles": {
+    "realm": [
+      { "name": "ADMIN" },
+      { "name": "IMPORTER" },
+      { "name": "EMPLOYEE" }
+    ]
+  },
+  "users": [
+    {
+      "username": "admin",
+      "enabled": true,
+      "credentials": [
+        { "type": "password", "value": "admin", "temporary": false }
+      ],
+      "realmRoles": ["ADMIN"]
+    },
+    {
+      "username": "imp",
+      "enabled": true,
+      "credentials": [
+        { "type": "password", "value": "importer", "temporary": false }
+      ],
+      "realmRoles": ["IMPORTER"]
+    },
+    {
+      "username": "emp",
+      "enabled": true,
+      "credentials": [
+        { "type": "password", "value": "employee", "temporary": false }
+      ],
+      "realmRoles": ["EMPLOYEE"]
+    }
+  ],
+  "clients": [
+    {
+      "clientId": "spring-app",
+      "name": "Spring App Client",
+      "enabled": true,
+      "protocol": "openid-connect",
+      "publicClient": false,
+      "secret": "spring-secret",
+      "redirectUris": ["*"],
+      "directAccessGrantsEnabled": true,
+      "attributes": {
+        "access.token.lifespan": "300"
+      }
+    }
+  ],
+  "eventsListeners": ["jboss-logging"],
+  "failureFactor": 3,
+  "quickLoginCheckMilliSeconds": 300000,
+  "waitIncrementSeconds": 0,
+  "maxFailureWaitSeconds": 600
+}
